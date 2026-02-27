@@ -1,0 +1,35 @@
+mkdir Tiket
+tar -czvf Tiket_20260226.tar.gz Tiket
+
+
+文件夹内命名规范：Agoda_Thailand_119666_20260225.json
+
+
+
+ossutil cp Tiket_20260226.tar.gz oss://poi-data-transmission --checkpoint-dir /home/dyf/make_final/check_point -e oss-accelerate.aliyuncs.com -j 10  --read-timeout 300  --connect-timeout 120 --retry-times 10
+
+
+
+ossutil cp Traveloka_20260226.tar.gz oss://poi-data-transmission --checkpoint-dir /home/dyf/make_final/check_point -e oss-accelerate.aliyuncs.com -j 10  --read-timeout 300  --connect-timeout 120 --retry-times 10
+
+
+
+
+ossutil cp Trip_20260226.tar.gz oss://poi-data-transmission --checkpoint-dir /home/dyf/make_final/check_point -e oss-accelerate.aliyuncs.com -j 10  --read-timeout 300  --connect-timeout 120 --retry-times 10
+
+
+导出完成，共 44770 条，文件已重命名为: ./Trip/Trip_Japan_44770_20260225.json
+导出完成，共 40082 条，文件已重命名为: ./Trip/Trip_Indonesia_40082_20260225.json
+导出完成，共 22426 条，文件已重命名为: ./Trip/Trip_Malaysia_22426_20260225.json
+导出完成，共 27937 条，文件已重命名为: ./Trip/Trip_Thailand_27937_20260225.json
+
+
+
+
+导出完成，共 64912 条，文件已重命名为: ./Tiket/Tiket_Indonesia_64912_20260225.json
+导出完成，共 30109 条，文件已重命名为: ./Tiket/Tiket_Malaysia_30109_20260225.json
+
+
+
+导出完成，共 74747 条，文件已重命名为: ./Traveloka/Traveloka_Indonesia_74747_20260225.json
+导出完成，共 55203 条，文件已重命名为: ./Traveloka/Traveloka_Japan_55203_20260225.json

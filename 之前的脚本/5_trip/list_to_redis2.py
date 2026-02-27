@@ -1,0 +1,68 @@
+# -*- coding:utf-8 -*-
+import requests
+import re
+import time
+import json
+import math
+import json
+import pickle
+import requests
+import pymongo
+from urllib import parse
+import hashlib
+import os
+
+
+# redis配置
+from redis import StrictRedis
+
+REDIS_KEY = 'trip_list'
+REDIS_URL = 'redis://:ABFSDD@ABFS!&rh@127.0.0.1:5000/1'
+redis = StrictRedis.from_url(REDIS_URL)
+
+M_HOST = "127.0.0.1"  # 地址
+M_PORT = 5002  # 端口
+M_USER = "admin"  # 用户名
+M_PASSWORD = parse.quote_plus("ABFSDD@ABFS!&rh")
+uri = 'mongodb://{}:{}@{}:{}'.format(M_USER, M_PASSWORD, M_HOST, str(M_PORT))
+mongoclient = pymongo.MongoClient(uri)
+col = mongoclient['trip']['ids']
+cursor = col.find({})
+count = 0
+num = 0
+for i in cursor:
+    num += 1
+    code = i['code']
+    displayType = i['displayType']
+    if displayType != "酒店":
+        continue
+    if code.isdigit():
+        count += 1
+        print(f"{num}-{count}")
+        try:
+            hotelId = int(i['code'])
+            cityId = int(i['city']['geoCode'])
+            countryId = int(i['country']['geoCode'])
+        except:
+            continue
+
+        name = i['resultWord']
+        latitude = str(i['coordinateInfos'][-1]['latitude'])
+        longitude = str(i['coordinateInfos'][-1]['longitude'])
+
+        item = dict()
+        item['hotelId'] = str(hotelId)
+        item['cityId'] = cityId
+        item['countryId'] = countryId
+        item['name'] = name
+        item['latitude'] = latitude
+        item['longitude'] = longitude
+        print(item)
+        data = pickle.dumps(item)
+        # 添加到商品爬虫redis_key指定的list
+        redis.rpush(REDIS_KEY, data)
+
+
+
+
+mongoclient.close()

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"\\(Get-Content ''D:\\\\-\\\\trip\\\\gadm\\\\gadm41_IDN_3.json'' -TotalCount 1\\).Substring\\(0, 3000\\)\")",
+      "Bash(powershell -Command:*)",
+      "Bash(python extract_hotel_info.py:*)",
+      "Bash(cd:*)"
+    ]
+  }
+}
