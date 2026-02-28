@@ -1,0 +1,3 @@
+db.getCollection("details").count()   135463
+
+db.getCollection("hotel_list_near").count()   47865
