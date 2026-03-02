@@ -5,9 +5,14 @@
 """
 import json, copy
 from pathlib import Path
+from redis import StrictRedis
+REDIS_KEY = 'trip_hotel_list'
+REDIS_URL = 'redis://:grad@0212!GnGn@127.0.0.1:5001/1'
+redis = StrictRedis.from_url(REDIS_URL)
+REDIS_KEY = "trip_list_near"
 
 # 基准屏幕尺寸：引用示例的宽高（单位：度），再乘以缩放系数 SIZE_SCALE 可微调颗粒度
-from hotel_list_map.data_example import example_data
+from trip.hotel_list_map.data_example import example_data
 
 SIZE_SCALE = 1.0  # 设为 0.5 可让单屏宽高减半，更细；设为 2 则更粗
 OVERLAP = 0.2     # 相邻视窗的重叠比例；调大减少漏网，调小减少输出量
@@ -115,7 +120,7 @@ def tile_bbox(min_lon, max_lon, min_lat, max_lat):
 
 def main():
     """遍历所有 gadm41 JSON，逐个 feature 输出 screen JSONL。"""
-    for path in sorted(Path("hotel_list").glob("gadm41_JPN_2.json")):
+    for path in sorted(Path("./../hotel_list").glob("gadm41_JPN_2.json")):
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
         for feat in data.get("features", []):
@@ -148,7 +153,14 @@ def main():
                 payload = copy.deepcopy(example_data)
                 payload["destination"]["geo"] = {"name": area_name}
                 payload["screen"] = s
-                print(json.dumps({
+                # print(json.dumps({
+                #     "area": area_name,
+                #     "gid": gid,
+                #     "screen_index": idx,
+                #     "data": payload,
+                # }, ensure_ascii=False))
+                redis.rpush(REDIS_KEY, json.dumps({
+                    "url":"https://hk.trip.com/restapi/soa2/33844/getMapListForMapDrag",
                     "area": area_name,
                     "gid": gid,
                     "screen_index": idx,

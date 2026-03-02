@@ -20,7 +20,7 @@ mongoclient = pymongo.MongoClient(uri, maxPoolSize=1)
 
 REDIS_KEY = "check_add:old_urls"
 BATCH_SIZE = 5000
-QUERY_FILTER = {"districtName": {"$regex": "(Indonesia|Japan|Thailand|Malaysia)$"}}
+QUERY_FILTER = {}
 
 # 清理旧数据
 redis.delete(REDIS_KEY)
@@ -29,11 +29,11 @@ redis.delete(REDIS_KEY)
 count = 0
 pipe = redis.pipeline()
 
-for col_name in ['seed_hotels', 'seed_hotels2']:
-    col = mongoclient['trip_before2'][col_name]
-    cursor = col.find(QUERY_FILTER, {"url": 1}, no_cursor_timeout=True, batch_size=5)
+for col_name in ['seed_hotels2']:
+    col = mongoclient['trip'][col_name]
+    cursor = col.find(QUERY_FILTER, {"id": 1}, no_cursor_timeout=True, batch_size=5)
     for doc in cursor:
-        url = doc.get("url")
+        url = doc.get("id")
         if url:
             pipe.sadd(REDIS_KEY, url)
             count += 1
@@ -47,33 +47,20 @@ pipe.execute()
 print(f"[加载旧数据] 完成，trip_before2 共 {count} 条 url")
 
 # Step 2: 遍历 trip.seed_hotels2，找出新增的 url
-col = mongoclient['trip']['seed_hotels2']
-cursor = col.find(QUERY_FILTER, {"url": 1}, no_cursor_timeout=True, batch_size=5)
+col = mongoclient['trip']['hotel_list_near']
+cursor = col.find(QUERY_FILTER, {"id": 1}, no_cursor_timeout=True, batch_size=5)
 
 new_urls = []
 scanned = 0
 for doc in cursor:
     scanned += 1
-    url = doc.get("url")
+    url = doc.get("id")
     if url and not redis.sismember(REDIS_KEY, url):
         new_urls.append(url)
     if scanned % BATCH_SIZE == 0:
         print(f"[扫描新数据] 已扫描 {scanned} 条，新增 {len(new_urls)} 条")
 
 cursor.close()
+redis.delete(REDIS_KEY)
 print(f"[扫描新数据] 完成，trip.seed_hotels2 共 {scanned} 条，新增 {len(new_urls)} 条")
 
-# Step 3: 输出结果
-if new_urls:
-    output_file = "new_urls.txt"
-    with open(output_file, "w", encoding="utf-8") as f:
-        for url in new_urls:
-            f.write(url + "\n")
-    print(f"新增 url 已写入 {output_file}")
-else:
-    print("没有新增 url")
-
-# 清理
-redis.delete(REDIS_KEY)
-mongoclient.close()
-redis.close()
