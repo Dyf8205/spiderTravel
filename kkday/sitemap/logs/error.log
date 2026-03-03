@@ -1,0 +1,702 @@
+2026-03-03 17:00:17.895 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/565001_570000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/565001_570000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/565001_570000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:01:37.076 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/560001_565000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/560001_565000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/560001_565000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:02:45.031 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Operation timed out after 50000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Operation timed out after 50000 milliseconds with 0 bytes received. See https://curl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Operation timed out after 50000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/550001_555000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/550001_555000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/550001_555000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Operation timed out after 50000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:03:38.019 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:04:28.287 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/545001_550000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:04:43.486 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 56
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.ht...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/535001_540000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/535001_540000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/535001_540000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.ProxyError'>
+
+curl_cffi.requests.exceptions.ProxyError: Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:05:42.268 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:06:32.541 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Operation timed out after 50002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Operation timed out after 50002 milliseconds with 0 bytes received. See https://curl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Operation timed out after 50002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Operation timed out after 50002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:07:22.801 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50000 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/530001_535000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:07:34.757 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (7) Failed to connect to 125.109.52.185 port 49295 after 1126 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 7
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (7) Failed to connect to 125.109.52.185 port 49295 after 1126 ms: Could not connect to se...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (7) Failed to connect to 125.109.52.185 port 49295 after 1126 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/520001_525000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/520001_525000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/520001_525000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.ConnectionError'>
+
+curl_cffi.requests.exceptions.ConnectionError: Failed to perform, curl: (7) Failed to connect to 125.109.52.185 port 49295 after 1126 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:09:01.698 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 28
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.Timeout'>
+
+curl_cffi.requests.exceptions.Timeout: Failed to perform, curl: (28) Connection timed out after 50002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:09:06.486 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 56
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.ht...
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.ProxyError'>
+
+curl_cffi.requests.exceptions.ProxyError: Failed to perform, curl: (56) CONNECT tunnel failed, response 504. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-03-03 17:09:38.493 | ERROR    | __main__:getWithcurl:144 - Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 640, in request
+    c.perform()
+    │ └ <function Curl.perform at 0x7fa0c0945240>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 365, in perform
+    self._check_error(ret, "perform")
+    │    │            └ 16
+    │    └ <function Curl._check_error at 0x7fa0c0944e50>
+    └ <curl_cffi.curl.Curl object at 0x7fa0bed420e0>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/curl.py", line 187, in _check_error
+    raise error
+          └ CurlError('Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+
+curl_cffi.curl.CurlError: Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 159, in <module>
+    Kkday("kkday").run("https://www.kkday.com/en-us/sitemap/products")
+    └ <class '__main__.Kkday'>
+
+  File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 153, in run
+    resp = self.getWithcurl(url)  # 获取具体hotel链接
+           │    │           └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Kkday.getWithcurl at 0x7fa0bce9ee60>
+           └ <__main__.Kkday object at 0x7fa0bed42260>
+
+> File "/home/dyf/kkday/sitemap/sitemap_to_mongodb.py", line 140, in getWithcurl
+    resp = session.get(url, headers=HEADERS, proxies=get_random_proxy(), timeout=50, verify=False)
+           │       │   │            │                └ <function get_random_proxy at 0x7fa0bed52b00>
+           │       │   │            └ {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/sign...
+           │       │   └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │       └ <function Session.get at 0x7fa0bec98790>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 661, in get
+    return self.request(method="GET", url=url, **kwargs)
+           │    │                         │      └ {'headers': {'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,appl...
+           │    │                         └ 'https://www.kkday.com/en-us/sitemap/products/515001_520000'
+           │    └ <function Session.request at 0x7fa0bec98670>
+           └ <curl_cffi.requests.session.Session object at 0x7fa0bed42020>
+  File "/usr/local/lib/python3.10/site-packages/curl_cffi/requests/session.py", line 647, in request
+    raise error(str(e), e.code, rsp) from e
+          │                     └ <Response [0]>
+          └ <class 'curl_cffi.requests.exceptions.HTTPError'>
+
+curl_cffi.requests.exceptions.HTTPError: Failed to perform, curl: (16) . See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
