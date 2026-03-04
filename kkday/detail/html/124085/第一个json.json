@@ -1,0 +1,161 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@id": "https://www.kkday.com/#website",
+            "@type": "WebSite",
+            "inLanguage": "en-US",
+            "name": "KKday",
+            "url": "https://www.kkday.com/",
+            "publisher": {
+                "@id": "https://www.kkday.com/#organization"
+            }
+        },
+        {
+            "@id": "https://www.kkday.com/en-us/product/124085#webpage",
+            "@type": "WebPage",
+            "description": "Book your gorgeous glamping accommodation at Dolphin Farm Auto Camping Ground in Ehime Prefecture. Make the experience even more memorable by interacting with the dolphins.",
+            "inLanguage": "en-US",
+            "name": "Dolphin Farm Auto Campground Glamping Accommodation | Ehime",
+            "url": "https://www.kkday.com/en-us/product/124085",
+            "about": {
+                "@id": "https://www.kkday.com/en-us/product/124085#product"
+            },
+            "breadcrumb": {
+                "@id": "https://www.kkday.com/en-us/product/124085#breadcrumb"
+            },
+            "isPartOf": {
+                "@id": "https://www.kkday.com/#website"
+            },
+            "mainEntity": {
+                "@id": "https://www.kkday.com/en-us/product/124085#faq"
+            },
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://www.kkday.com/en-us/product/124085"
+                    ]
+                }
+            ],
+            "primaryImageOfPage": {
+                "@type": "ImageObject",
+                "url": "https://image.kkday.com/v2/image/get/w_1900%2Cc_fit/s1.kkday.com/product_124085/20220208085752_T8eLS/jpg"
+            }
+        },
+        {
+            "@context": "https://schema.org",
+            "@id": "https://www.kkday.com/en-us/product/124085#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Japan",
+                    "item": "https://www.kkday.com/en-us/destination/jp-japan"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Shikoku",
+                    "item": "https://www.kkday.com/en-us/destination/jp-shikoku"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Ehime",
+                    "item": "https://www.kkday.com/en-us/destination/jp-ehime-prefecture"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Imabari",
+                    "item": "https://www.kkday.com/en-us/destination/jp-imabari"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Accommodation",
+                    "item": "https://www.kkday.com/en-us/category/jp-imabari/accommodation/list"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Dolphin Farm Auto Campground Glamping Accommodation | Ehime",
+                    "item": "https://www.kkday.com/en-us/product/124085"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.kkday.com/en-us/product/124085#place-0",
+            "@type": "Place",
+            "address": "1673 Hakatacho Kanoura, Imabari City, Ehime Prefecture, 794-2302, Japan",
+            "name": "Dolphin Farm Auto Camping Ground",
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 34.2006416,
+                "longitude": 133.0759717
+            },
+            "image": [
+                "https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_124085/20211116080125_2qLoh/png"
+            ]
+        },
+        {
+            "@id": "https://www.kkday.com/en-us/product/124085#faq",
+            "@type": "FAQPage",
+            "name": "FAQ",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Reminders",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The camping site may cancel your reservations in case of typhoons or bad weather that may damage the tents. In such cases, you will not incur any cancellation fees；Pets and unauthorized entry by anyone other than guests are strictly prohibited.；All rooms are non-smoking.；Cooking indoors that leaves behind odors, such as grilled meat or hotpot, is prohibited."
+                    }
+                }
+            ]
+        },
+        {
+            "@id": "https://www.kkday.com/en-us/product/124085#product",
+            "@type": "Product",
+            "category": "CATEGORY_078",
+            "description": "Book your gorgeous glamping accommodation at Dolphin Farm Auto Camping Ground in Ehime Prefecture. Make the experience even more memorable by interacting with the dolphins.",
+            "inLanguage": "en-US",
+            "name": "Dolphin Farm Auto Campground Glamping Accommodation | Ehime",
+            "sku": 124085,
+            "url": "https://www.kkday.com/en-us/product/124085",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.34,
+                "reviewCount": 243,
+                "bestRating": 5,
+                "worstRating": 1
+            },
+            "brand": {
+                "@id": "https://www.kkday.com/#org"
+            },
+            "image": [
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20220208085752_T8eLS/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20240715013817_OhRrH/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20220208085618_jzQ9h/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20220208085619_OzL9s/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20240606065543_wo4vk/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20240606065542_E7tts/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20250210040344_G1EDf/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20250210040346_mFpup/jpg",
+                "https://image.kkday.com/v2/image/get/h_650%2Cc_fit/s1.kkday.com/product_124085/20220225065916_HyOMo/png"
+            ],
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.kkday.com/en-us/product/124085",
+                "priceCurrency": "USD",
+                "price": 4.88,
+                "availability": "https://schema.org/InStock",
+                "priceValidUntil": "2026-09-30",
+                "availableAtOrFrom": {
+                    "@id": "https://www.kkday.com/en-us/product/124085#place-0"
+                }
+            }
+        }
+    ]
+}

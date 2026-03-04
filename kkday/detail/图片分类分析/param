@@ -1,0 +1,2 @@
+124085.html 是一个页面的内容，里面有几个json，当前目录下js是这页面加载用到js；fetch-product-comment-images.json是
+https://www.kkday.com/api/_nuxt/cpath/fetch-product-comment-images的响应内容；我要问的是响应内容中的travellerType的值都对应什么，json中显示是02；03；01；真实的对应的是什么

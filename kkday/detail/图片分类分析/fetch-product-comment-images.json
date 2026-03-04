@@ -1,0 +1,436 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "meta": {
+            "pagination": {
+                "total": 138,
+                "perPage": 30,
+                "currentPage": 1,
+                "totalPages": 5
+            }
+        },
+        "images": [
+            {
+                "id": 3552670,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2948720/20250923205820_vlSCo/jpg",
+                "comment": {
+                    "title": "I&#39;m a repeat customer.",
+                    "body": "This time we stayed with Journey. The last time we came, there was no bath or toilet, so it was quite difficult to bring children, but Journey has its own private bath and toilet, so we were able to spend a comfortable time here. We had a BBQ and enjoyed the island scenery and dolphins."
+                },
+                "author": {
+                    "name": "亮子",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3551521,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2947552/20250923002715_kRAhU/jpg",
+                "comment": {
+                    "title": "The view is amazing!!",
+                    "body": "The sea was beautiful and it was a lot of fun! On the other hand, there were some issues, such as no hair dryer in the shower room (there were two shower rooms, and apparently one in the other), no animation (towels), and other issues, but we were able to feel the nature!!"
+                },
+                "author": {
+                    "name": "茉璃",
+                    "travellerType": "03",
+                    "avatar": "https://profile.line-scdn.net/0hmwxVtKvcMlhVLyLAoH5MJyV_MTJ2XmtKfUh6PmUuOT1gTHBcKhx6PGB9PzxrT3ILfEopbGUpZWlZPEU-S3nObFIfbGxvGHAPcU94vg"
+                }
+            },
+            {
+                "id": 3491302,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2924806/20250904113940_avV8l/jpg",
+                "comment": {
+                    "title": "The dolphins are so cute!",
+                    "body": "We went with two children and two adults. It was still hot in mid-August, but the beige dome tent was air-conditioned and we were able to stay comfortably. The meat we ordered as an option was incredibly delicious and we were impressed! The dolphins were also adorable. When we got close to see them, some stood up and stayed motionless, while others swam away repeatedly while looking at us. They were all very individual. My family and I are definitely talking about going back again. The sunset was also beautiful."
+                },
+                "author": {
+                    "name": "理恵",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3491302,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2924806/20250904113941_2D1VV/jpg",
+                "comment": {
+                    "title": "The dolphins are so cute!",
+                    "body": "We went with two children and two adults. It was still hot in mid-August, but the beige dome tent was air-conditioned and we were able to stay comfortably. The meat we ordered as an option was incredibly delicious and we were impressed! The dolphins were also adorable. When we got close to see them, some stood up and stayed motionless, while others swam away repeatedly while looking at us. They were all very individual. My family and I are definitely talking about going back again. The sunset was also beautiful."
+                },
+                "author": {
+                    "name": "理恵",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3461877,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2916789/20250829223553_buoH8/jpg",
+                "comment": {
+                    "title": "波の音が心地よい",
+                    "body": "東京からの旅行の一泊にこちらを選びました。\nすごく静かで、波の音が心地よかったです。\nトイレや炊事場も清掃が行き届いていました。\nイルカも可愛かったです。\nとにかく景色が最高でした。"
+                },
+                "author": {
+                    "name": "Anonymous User",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3461820,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2916736/20250829205123_xCYa0/jpg",
+                "comment": {
+                    "title": "The view was amazing",
+                    "body": "The BBQ under the beautiful sunset was amazing! The meat was tender and delicious. There was a microwave in the tent, so we were able to heat up some packed rice. It would have been even better if we had had some disposable chopsticks and paper plates."
+                },
+                "author": {
+                    "name": "Anonymous User",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3373979,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2889056/20250813024922_RAzIl/jpg",
+                "comment": {
+                    "title": "サイコーに良かった！！",
+                    "body": "温室シャワー、トイレ以外、全部サイコーに良かったです！"
+                },
+                "author": {
+                    "name": "清子",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3373979,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2889056/20250813024922_PlXLh/jpg",
+                "comment": {
+                    "title": "サイコーに良かった！！",
+                    "body": "温室シャワー、トイレ以外、全部サイコーに良かったです！"
+                },
+                "author": {
+                    "name": "清子",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3373979,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2889056/20250813024922_tuqiO/jpg",
+                "comment": {
+                    "title": "サイコーに良かった！！",
+                    "body": "温室シャワー、トイレ以外、全部サイコーに良かったです！"
+                },
+                "author": {
+                    "name": "清子",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3373979,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2889056/20250813024922_Qo718/jpg",
+                "comment": {
+                    "title": "サイコーに良かった！！",
+                    "body": "温室シャワー、トイレ以外、全部サイコーに良かったです！"
+                },
+                "author": {
+                    "name": "清子",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3338512,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2875651/20250804221614_65POI/jpg",
+                "comment": {
+                    "title": "Summer vacation",
+                    "body": "We stayed here for a summer vacation. We could see dolphins, swim in the sea nearby, and go fishing. The kids had a great time."
+                },
+                "author": {
+                    "name": "由美",
+                    "travellerType": "02",
+                    "avatar": "https://profile.line-scdn.net/0hFaX5dgc1GU51TDDdbGBnMQUcGiRWPUBcDSJVfBMfQH4ddFgZXX0FfUIbFXtLewtPC31QeBdKT3x5X24oaxrlenJ8R3pPe1sZUSxTqA"
+                }
+            },
+            {
+                "id": 3338512,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2875651/20250804221614_Nbeij/jpg",
+                "comment": {
+                    "title": "Summer vacation",
+                    "body": "We stayed here for a summer vacation. We could see dolphins, swim in the sea nearby, and go fishing. The kids had a great time."
+                },
+                "author": {
+                    "name": "由美",
+                    "travellerType": "02",
+                    "avatar": "https://profile.line-scdn.net/0hFaX5dgc1GU51TDDdbGBnMQUcGiRWPUBcDSJVfBMfQH4ddFgZXX0FfUIbFXtLewtPC31QeBdKT3x5X24oaxrlenJ8R3pPe1sZUSxTqA"
+                }
+            },
+            {
+                "id": 3337395,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2874523/20250804034909_uLBve/jpg",
+                "comment": {
+                    "title": "素晴らしい🌟",
+                    "body": "静かで癒される環境。\n外国人も少なく、落ち着いてすごせました。\nスタッフの方たちも、親切でした❣️"
+                },
+                "author": {
+                    "name": "Anonymous User",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 3309275,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2866991/20250730030107_VJu3E/jpg",
+                "comment": {
+                    "title": "Family trip in the heat",
+                    "body": "Four parents and children stayed in a cottage. Although it was unfortunate that the dolphin swimming tour was cancelled, the beautiful ocean, sunset, and starry sky were soothing and it was a wonderful trip. I would like to return in a different season and try cycling again."
+                },
+                "author": {
+                    "name": "Yu",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLlUxhp6E2fugJZ6lxvP1hx_FcUzqr5VsxRggNWERhsbSu-8A=s96-c"
+                }
+            },
+            {
+                "id": 2030834,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2680038/20250326154659_vrCPo/jpg",
+                "comment": {
+                    "title": "View of the Shimanami sunset from inside the room",
+                    "body": "I stayed in Dome Tent C. I was able to watch the sun setting over the beautiful scenery of Shimanami from my room, and the beautiful scenery soothed me. In the evening, we had a BBQ on the deck attached to the dome tent. We enjoyed the can-can set with huge seafood. You can bring your own food, rent a BBQ set, and park your car nearby, so it was very convenient and fun!"
+                },
+                "author": {
+                    "name": "貴洋",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLUuxq9hiQLjDLMmMoUhi1B6dzGGKNKnTzV8DiMpxAL65gPVw=s96-c"
+                }
+            },
+            {
+                "id": 2030834,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2680038/20250326154659_lVAfR/jpg",
+                "comment": {
+                    "title": "View of the Shimanami sunset from inside the room",
+                    "body": "I stayed in Dome Tent C. I was able to watch the sun setting over the beautiful scenery of Shimanami from my room, and the beautiful scenery soothed me. In the evening, we had a BBQ on the deck attached to the dome tent. We enjoyed the can-can set with huge seafood. You can bring your own food, rent a BBQ set, and park your car nearby, so it was very convenient and fun!"
+                },
+                "author": {
+                    "name": "貴洋",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLUuxq9hiQLjDLMmMoUhi1B6dzGGKNKnTzV8DiMpxAL65gPVw=s96-c"
+                }
+            },
+            {
+                "id": 2030834,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2680038/20250326154659_958PI/jpg",
+                "comment": {
+                    "title": "View of the Shimanami sunset from inside the room",
+                    "body": "I stayed in Dome Tent C. I was able to watch the sun setting over the beautiful scenery of Shimanami from my room, and the beautiful scenery soothed me. In the evening, we had a BBQ on the deck attached to the dome tent. We enjoyed the can-can set with huge seafood. You can bring your own food, rent a BBQ set, and park your car nearby, so it was very convenient and fun!"
+                },
+                "author": {
+                    "name": "貴洋",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLUuxq9hiQLjDLMmMoUhi1B6dzGGKNKnTzV8DiMpxAL65gPVw=s96-c"
+                }
+            },
+            {
+                "id": 2030835,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2678653/20250325205633_Y6QtC/jpg",
+                "comment": {
+                    "title": "Highest",
+                    "body": "We stayed in a cottage and had a relaxing time with the dolphins."
+                },
+                "author": {
+                    "name": "NOB",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_XnMiD/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_Rkyzx/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_sLStx/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_KjV9V/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_RkeFJ/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614268,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2417308/20241020132806_nUdhJ/jpg",
+                "comment": {
+                    "title": "The dolphins were cute",
+                    "body": "There was only one dolphin, and it was doing both the dolphin interaction course and the dolphin and swimming course, so the schedule was tight and it was unfortunate that there was no swimming course at the right time. We had no choice but to do the interaction course, but my 5-year-old and 7-year-old grandchildren were very happy. They were embarrassed when the dolphin kissed them. Since it is next to the beach, my grandchildren swam in the evening and morning. Perhaps because we made the reservation a little late, dome tents A and B were sold out, so we chose C. AB was closest to the beach and shower room, while C was a little difficult for small children because we had to walk more than 100m in the heat. However, the air conditioning worked well inside the dome, so we slept comfortably at night. The new dome and the futon and room were spacious and comfortable. At night, we went to the embankment to set off fireworks and had a barbecue next to the dome, and we made some very fun memories as a family. We were blessed with good weather, and the view of the sea was wonderful both at night and in the morning. As for barbecue ingredients, they sold everything at a supermarket about a 5-minute drive away."
+                },
+                "author": {
+                    "name": "美穂",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614272,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2364895/20240917042312_RD9LF/jpg",
+                "comment": {
+                    "title": "Swim with dolphins",
+                    "body": "I&#39;m glad I got to swim with the dolphins, which was my dream. The sunset was amazing."
+                },
+                "author": {
+                    "name": "wenhua",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTatjexLICFDfk2ZEejUVbsqaCioBD5K_KawtX665bh2ehfQ=s96-c"
+                }
+            },
+            {
+                "id": 1614272,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2364895/20240917042313_6tg9L/jpg",
+                "comment": {
+                    "title": "Swim with dolphins",
+                    "body": "I&#39;m glad I got to swim with the dolphins, which was my dream. The sunset was amazing."
+                },
+                "author": {
+                    "name": "wenhua",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTatjexLICFDfk2ZEejUVbsqaCioBD5K_KawtX665bh2ehfQ=s96-c"
+                }
+            },
+            {
+                "id": 1614272,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2364895/20240917042312_2YE1O/jpg",
+                "comment": {
+                    "title": "Swim with dolphins",
+                    "body": "I&#39;m glad I got to swim with the dolphins, which was my dream. The sunset was amazing."
+                },
+                "author": {
+                    "name": "wenhua",
+                    "travellerType": "02",
+                    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTatjexLICFDfk2ZEejUVbsqaCioBD5K_KawtX665bh2ehfQ=s96-c"
+                }
+            },
+            {
+                "id": 1614283,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2288408/20240803092217_PItF9/jpg",
+                "comment": {
+                    "title": "Comfortable glamping",
+                    "body": "We stayed in Dome C for two nights. It was a scorching hot day, but the air conditioning kept the room cool, and there was a large refrigerator so we could store food safely. The beach was right next door, so the kids enjoyed it. The temporary toilets and showers were a bit disappointing, but overall we were very satisfied. We&#39;d like to return. Wi-Fi was available, but we couldn&#39;t use it. Are there Domes AB? There are private covered tables and chairs, a BBQ stand, and the view is great."
+                },
+                "author": {
+                    "name": "隆人",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614283,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2288408/20240803092217_A4XLu/jpg",
+                "comment": {
+                    "title": "Comfortable glamping",
+                    "body": "We stayed in Dome C for two nights. It was a scorching hot day, but the air conditioning kept the room cool, and there was a large refrigerator so we could store food safely. The beach was right next door, so the kids enjoyed it. The temporary toilets and showers were a bit disappointing, but overall we were very satisfied. We&#39;d like to return. Wi-Fi was available, but we couldn&#39;t use it. Are there Domes AB? There are private covered tables and chairs, a BBQ stand, and the view is great."
+                },
+                "author": {
+                    "name": "隆人",
+                    "travellerType": "02",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            },
+            {
+                "id": 1614286,
+                "sourceType": "kkday",
+                "url": "https://image.kkday.com/v2/image/get/s1.kkday.com/recommend_2274596/20240726092937_ItWcF/jpg",
+                "comment": {
+                    "title": "trip",
+                    "body": "The place was well maintained and the inside and outside was very clean!! We could see the dolphins and the sea was so beautiful that we could see the fish swimming from the pier!!"
+                },
+                "author": {
+                    "name": "Anonymous User",
+                    "travellerType": "01",
+                    "avatar": "https://image.kkday.com/v2/image/get/s1.kkday.com/member/default_image/png"
+                }
+            }
+        ]
+    }
+}
