@@ -1,0 +1,1948 @@
+nohup: ignoring input
+2026-03-04 15:44:56.871 | INFO     | __main__:main:126 - Started worker 0
+2026-03-04 15:44:56.877 | INFO     | __main__:worker:42 - Worker 0 started, pid: 11989
+2026-03-04 15:44:56.908 | INFO     | __main__:main:126 - Started worker 1
+2026-03-04 15:44:56.914 | INFO     | __main__:main:126 - Started worker 2
+2026-03-04 15:44:56.921 | INFO     | __main__:main:126 - Started worker 3
+2026-03-04 15:44:56.928 | INFO     | __main__:main:126 - Started worker 4
+2026-03-04 15:44:56.934 | INFO     | __main__:main:126 - Started worker 5
+2026-03-04 15:44:56.940 | INFO     | __main__:main:126 - Started worker 6
+2026-03-04 15:44:56.945 | INFO     | __main__:main:126 - Started worker 7
+2026-03-04 15:44:56.950 | INFO     | __main__:main:126 - Started worker 8
+2026-03-04 15:44:56.954 | INFO     | __main__:main:126 - Started worker 9
+2026-03-04 15:44:57.216 | INFO     | __main__:worker:42 - Worker 1 started, pid: 11991
+2026-03-04 15:44:57.521 | INFO     | __main__:worker:42 - Worker 2 started, pid: 11992
+2026-03-04 15:44:57.829 | INFO     | __main__:worker:42 - Worker 3 started, pid: 11993
+2026-03-04 15:44:58.135 | INFO     | __main__:worker:42 - Worker 4 started, pid: 11994
+2026-03-04 15:44:58.440 | INFO     | __main__:worker:42 - Worker 5 started, pid: 11995
+2026-03-04 15:44:58.667 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:44:58.747 | INFO     | __main__:worker:42 - Worker 6 started, pid: 11996
+2026-03-04 15:44:59.053 | INFO     | __main__:worker:42 - Worker 7 started, pid: 11997
+2026-03-04 15:44:59.357 | INFO     | __main__:worker:42 - Worker 8 started, pid: 11998
+2026-03-04 15:44:59.613 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:44:59.614 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:44:59.649 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/horne-pecan-company---1305-southerfield-rd-americus-35648639/
+2026-03-04 15:44:59.663 | INFO     | __main__:worker:42 - Worker 9 started, pid: 11999
+2026-03-04 15:45:00.138 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:00.139 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:00.177 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/dunkin'-jackson-1653362/
+2026-03-04 15:45:00.669 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:00.669 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:00.727 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/barberitos-columbus-26270291/
+2026-03-04 15:45:01.808 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:01.946 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:01.947 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:02.013 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/one-zo-boba-tea-evans-evans-32325017/
+2026-03-04 15:45:02.081 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:02.082 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:02.127 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/chick-fil-a-cartersville-939597/
+2026-03-04 15:45:02.718 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:02.718 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:02.778 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/al-g's-liquor-store-marietta-23374194/
+2026-03-04 15:45:03.303 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:03.303 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:03.340 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/crumbl-warner-robins-25093347/
+2026-03-04 15:45:03.361 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:04.210 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:04.325 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:04.325 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:04.362 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/dollar-general-mcdonough-1800653/
+2026-03-04 15:45:04.457 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:04.457 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:04.511 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/papa-johns-pizza-blairsville-24564325/
+2026-03-04 15:45:04.649 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:04.649 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:04.684 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/jd-sports-savannah-26073608/
+2026-03-04 15:45:04.713 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:04.713 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:04.745 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/silly-willy-macon-30846085/
+2026-03-04 15:45:04.976 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:04.976 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:05.003 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/domino's-swainsboro-33929513/
+2026-03-04 15:45:05.121 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:05.834 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:05.866 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:06.128 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:06.233 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:06.233 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:06.252 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/crust-pizza-bar-riverdale-25219035/
+2026-03-04 15:45:06.668 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:06.669 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:06.681 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/plant-a-flower-atlanta-22968593/
+2026-03-04 15:45:07.011 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:07.951 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:08.613 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:08.613 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:08.639 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/grovetown-seafood-market-and-restaurant-grovetown-27869485/
+2026-03-04 15:45:08.927 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:08.928 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:08.940 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/planet-smoothie-suwanee-412582/
+2026-03-04 15:45:08.997 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:08.997 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:09.010 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/subway-kennesaw-192406/
+2026-03-04 15:45:09.810 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:09.810 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:09.832 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/amc-theatres-cumming-32882000/
+2026-03-04 15:45:12.475 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:13.213 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:13.213 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:13.233 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/high-roller-sushi,-llc---25-peachtree-st-nw-atlanta-38913899/
+2026-03-04 15:45:13.574 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:13.574 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:13.630 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/family-dollar-lock-haven-31612479/
+2026-03-04 15:45:13.857 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:13.857 | ERROR    | __main__:worker:103 - Worker 3: 详情页访问失败
+2026-03-04 15:45:13.857 | ERROR    | __main__:worker:104 - https://www.doordash.com/store/the-bell-stand-atlanta-34143909/详情页访问失败
+2026-03-04 15:45:13.859 | INFO     | __main__:worker:116 - Worker 3 finished
+2026-03-04 15:45:14.999 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:14.999 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:15.018 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/nori-japan-augusta-28412566/
+2026-03-04 15:45:15.557 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:15.558 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:15.580 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/soupworks-huntingdon-valley-1517813/
+2026-03-04 15:45:15.816 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:15.816 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:15.831 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/matines-cafe-philadelphia-24524765/
+2026-03-04 15:45:16.645 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:16.753 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:16.753 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:16.781 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/920-kafe-brunswick-32466419/
+2026-03-04 15:45:18.333 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:18.333 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:18.358 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/farm-burger-atlanta-638835/
+2026-03-04 15:45:19.647 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:19.647 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:19.682 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/chucks-wings-philadelphia-27597590/
+2026-03-04 15:45:20.644 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:20.645 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:20.675 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/weis-markets-ephrata-2330898/
+2026-03-04 15:45:22.109 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:22.110 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:22.143 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/walgreens-king-of-prussia-1114273/
+2026-03-04 15:45:22.863 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:22.868 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:22.869 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:22.883 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:22.883 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:22.891 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/sheetz-lancaster-2458423/
+2026-03-04 15:45:22.908 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/family-dollar-scranton-31600245/
+2026-03-04 15:45:25.210 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:25.211 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:25.229 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/high-burgers-bethlehem-36572771/
+2026-03-04 15:45:25.561 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:25.561 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:25.611 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/shake-shack-bronx-35663731/
+2026-03-04 15:45:25.640 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:25.640 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:25.661 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/smoke-signals-lake-placid-34357260/
+2026-03-04 15:45:25.737 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:25.737 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:25.755 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/malelani-cafe-philadelphia-946466/
+2026-03-04 15:45:26.432 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:26.432 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:26.460 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/spoonful-thai-bistro-west-reading-2534531/
+2026-03-04 15:45:26.711 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:27.120 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:28.254 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:28.911 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:28.912 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:28.940 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/italian-village-pizza-pittsburgh-591191/
+2026-03-04 15:45:29.911 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:29.912 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:29.932 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/taco-bell-fishkill-2355173/
+2026-03-04 15:45:30.012 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:30.013 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:30.065 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/tarascos-mexican-restaurant-(cassville-rd-nw)-cartersville-23560725/
+2026-03-04 15:45:30.814 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:30.814 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:30.853 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/marias-bistro-mexicano-brooklyn-463591/
+2026-03-04 15:45:31.552 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:32.229 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:32.230 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:32.245 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:32.249 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/sobol-rochester-2409363/
+2026-03-04 15:45:34.035 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:34.036 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:34.062 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/chopt-creative-salad-co.-new-york-871295/
+2026-03-04 15:45:34.293 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:34.293 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:34.306 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/five-below-mohegan-lake-31616540/
+2026-03-04 15:45:34.789 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:34.790 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:34.804 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/five-below-howard-beach-31616817/
+2026-03-04 15:45:35.557 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:35.558 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:35.574 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/yoon-haeundae-galbi-new-york-36404321/
+2026-03-04 15:45:36.387 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:37.060 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:37.061 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:37.113 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/best-bagel-&amp;-coffee-new-york-25093558/
+2026-03-04 15:45:37.725 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:38.585 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:38.585 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:38.599 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/cameo-drive-in-aspers-38925395/
+2026-03-04 15:45:38.937 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:38.938 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:38.970 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/kawa-sushi-massapequa-23103205/
+2026-03-04 15:45:39.168 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:40.007 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:40.007 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:40.018 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/over-easy-huntington-huntington-25611161/
+2026-03-04 15:45:41.713 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:41.714 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:41.728 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/grand-market-brooklyn-1672146/
+2026-03-04 15:45:41.821 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:41.821 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:41.834 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/josephs-restaurant-new-york-24938410/
+2026-03-04 15:45:42.754 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:42.754 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:42.770 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/dunkin'-plattsburgh-33193347/
+2026-03-04 15:45:43.309 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:43.309 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:43.325 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/fresh-taco-ridgewood-26082305/
+2026-03-04 15:45:44.878 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:44.879 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:44.896 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/miso-asian-restaurant-kingston-23037603/
+2026-03-04 15:45:45.186 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:45.187 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:45.218 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/victor's-pizza-&amp;-pasta-house-melville-115276/
+2026-03-04 15:45:46.187 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:46.187 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:46.203 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/la-rosa-chicken-&amp;-grill-staten-island-145799/
+2026-03-04 15:45:46.702 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:46.712 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:46.712 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:46.728 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/green-jade-depew-35666687/
+2026-03-04 15:45:47.451 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:47.452 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:47.470 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/jajaja-mexicana-new-york-34613543/
+2026-03-04 15:45:47.634 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:47.635 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:47.647 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/the-kettle-black-brooklyn-145011/
+2026-03-04 15:45:48.408 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:48.715 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:48.715 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:48.730 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/panini-palace-brooklyn-27796992/
+2026-03-04 15:45:50.133 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:50.134 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:50.151 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/dollar-general-liverpool-2321263/
+2026-03-04 15:45:50.312 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:50.312 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:50.333 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:50.333 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:50.333 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/hannaford-schenectady-27551293/
+2026-03-04 15:45:50.357 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/la-pizza-italia--new-york-27981142/
+2026-03-04 15:45:50.812 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:50.813 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:50.828 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/the-hideaway-saratoga-springs-609349/
+2026-03-04 15:45:50.837 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:50.837 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:50.856 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/acai-aura-astoria-38655659/
+2026-03-04 15:45:51.744 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:51.744 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:51.757 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/petsmart-geneseo-2386226/
+2026-03-04 15:45:52.211 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:52.212 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:52.236 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/gourmet-whaler-cold-spring-harbor-38294917/
+2026-03-04 15:45:53.197 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:53.197 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:53.213 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/the-burger-den-lake-worth-1534317/
+2026-03-04 15:45:53.216 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:53.217 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:53.237 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/chicas-cuban-cafe-deland-1125095/
+2026-03-04 15:45:54.110 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:54.110 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:54.111 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:54.161 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/panera-bread-tampa-691569/
+2026-03-04 15:45:54.814 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:55.213 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:55.213 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:55.232 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/sonic-drive-in-jacksonville-2077518/
+2026-03-04 15:45:55.639 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:56.357 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:56.358 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:56.372 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/edible-miami-gardens-24903857/
+2026-03-04 15:45:56.940 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:56.940 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:56.954 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/el-sol-de-mexico-bar-and-grill-brooksville-34432507/
+2026-03-04 15:45:57.159 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:57.159 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:57.177 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/zan's-kosher-deli-lake-grove-114929/
+2026-03-04 15:45:57.262 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:57.263 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:57.288 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/dairy-queen-silver-springs-25985848/
+2026-03-04 15:45:57.961 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:57.962 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:57.976 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/catfish-kitchen-deland-24726374/
+2026-03-04 15:45:58.714 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:45:59.071 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:59.072 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:45:59.110 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/dave's-hot-chicken-altamonte-springs-24460590/
+2026-03-04 15:45:59.966 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:45:59.966 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:00.012 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/mcdonald's-leesburg-786378/
+2026-03-04 15:46:00.035 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:00.035 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:00.051 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/evoo-fresh-mediterranean-kitchen-sanford-30997792/
+2026-03-04 15:46:00.435 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:00.958 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:00.959 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:00.978 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/first-wok-gainesville-35193457/
+2026-03-04 15:46:01.212 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:01.212 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:01.230 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/hot-girlz-soul-food-fort-pierce-23389742/
+2026-03-04 15:46:01.513 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:01.616 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:01.616 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:01.644 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/casa-vieja-orlando-24780554/
+2026-03-04 15:46:02.627 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:02.627 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:02.642 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/ra-sushi-miami-518509/
+2026-03-04 15:46:03.713 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:03.713 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:03.732 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/ak-pho-vietnamese-noodle-house-ocala-24367617/
+2026-03-04 15:46:03.997 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:03.998 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:04.017 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/el-rancho-grande-miami-beach-86863/
+2026-03-04 15:46:05.315 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:05.315 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:05.347 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/face-tea-lake-mary-lake-mary-1016934/
+2026-03-04 15:46:05.755 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:05.756 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:05.782 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/cfs-coffee-for-the-soul-orlando-1661991/
+2026-03-04 15:46:08.171 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:08.171 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:08.224 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/dickey's-barbecue-pit-sanford-24654482/
+2026-03-04 15:46:08.362 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:08.363 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:08.406 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/circle-k-seffner-1695283/
+2026-03-04 15:46:09.647 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:09.648 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:09.672 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/dollar-general-lake-wales-2511075/
+2026-03-04 15:46:10.076 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:10.077 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:10.127 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/walgreens-tampa-1084064/
+2026-03-04 15:46:10.336 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:10.337 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:10.350 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/world-of-beer-odessa-36203189/
+2026-03-04 15:46:10.825 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:10.826 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:10.847 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/krystal-yulee-2463801/
+2026-03-04 15:46:11.505 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:11.506 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:11.533 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/hardee's-fort-myers-500145/
+2026-03-04 15:46:12.111 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:12.111 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:12.131 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/taco-bell-hialeah-1200366/
+2026-03-04 15:46:12.464 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:12.465 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:12.465 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:12.465 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:12.527 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/walgreens-naples-1112374/
+2026-03-04 15:46:12.530 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/loca-elotes-altamonte-springs-2059914/
+2026-03-04 15:46:14.059 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:14.432 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:14.433 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:14.455 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/fernandez-the-bull-cuban-cafe-naples-318258/
+2026-03-04 15:46:14.615 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:15.220 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:15.220 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:15.238 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/mirage-restaurant-clearwater-24950895/
+2026-03-04 15:46:16.047 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:16.047 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:16.066 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/7-eleven-dania-beach-2635593/
+2026-03-04 15:46:16.269 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:16.270 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:16.316 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/burger-king-west-palm-beach-885709/
+2026-03-04 15:46:17.653 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:17.653 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:17.706 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/the-thrivery-bradenton-33829325/
+2026-03-04 15:46:17.801 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:17.801 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:17.839 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/7-eleven-miramar-2635578/
+2026-03-04 15:46:18.626 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:18.627 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:18.641 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/juicy-juice-bar-hollywood-34305893/
+2026-03-04 15:46:20.084 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:20.084 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:20.105 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/frena-fort-lauderdale-39503449/
+2026-03-04 15:46:20.731 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:20.732 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:20.751 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/little-caesars-marco-island-1150464/
+2026-03-04 15:46:20.932 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:20.932 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:20.944 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/big-ass-slices--panama-city-beach-39562131/
+2026-03-04 15:46:21.927 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:21.927 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:21.945 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/pollos-el-gordo-pensacola-28723096/
+2026-03-04 15:46:22.486 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:22.486 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:22.508 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/kung-fu-tea-draper-1723553/
+2026-03-04 15:46:22.827 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:22.828 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:22.845 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/brooklyn-calzones-hialeah-28171158/
+2026-03-04 15:46:23.313 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:23.314 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:23.332 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/one-stop-mobile-shop-miami-24671927/
+2026-03-04 15:46:23.518 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:23.518 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:23.533 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/molly-tea---south-salt-lake-city-south-salt-lake-38471221/
+2026-03-04 15:46:23.811 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:23.812 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:23.827 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/mitra-9-fort-myers-22983374/
+2026-03-04 15:46:25.425 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:25.425 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:25.453 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/cvs-glenmont-1235947/
+2026-03-04 15:46:25.561 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:25.561 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:25.574 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/kou-korean-bbq---69-s-state-st-orem-38053629/
+2026-03-04 15:46:25.795 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:26.718 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:26.785 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:26.785 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:26.803 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/foot-locker-west-valley-city-32874550/
+2026-03-04 15:46:26.853 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:26.854 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:26.871 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/tsunami-restaurant-&amp;-sushi-bar-salt-lake-city-1160606/
+2026-03-04 15:46:27.815 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:27.815 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:27.832 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/arco-ampm-salem-31136126/
+2026-03-04 15:46:28.109 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:28.424 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:28.424 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:28.440 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/cafe-bea-miami-34133931/
+2026-03-04 15:46:28.664 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:28.665 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:28.724 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/dairy-queen-dallas-917553/
+2026-03-04 15:46:29.113 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:29.113 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:29.128 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/ocean-sushi-portland-25435442/
+2026-03-04 15:46:30.618 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:30.618 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:30.634 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/big-5-sporting-goods-albany-37130117/
+2026-03-04 15:46:30.713 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:30.714 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:30.728 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/don-pepe's-mexican-taqueria-roseburg-37373737/
+2026-03-04 15:46:31.037 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:31.037 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:31.058 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/la-fondita-salem-416261/
+2026-03-04 15:46:31.215 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:31.215 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:31.237 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/grocery-outlet-beer,wine-&amp;-spirits-junction-city-23836659/
+2026-03-04 15:46:31.409 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:31.410 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:31.421 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/heart-&amp;-soul-eugene-1281037/
+2026-03-04 15:46:32.310 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:32.314 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:32.315 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:32.333 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/china-star-bountiful-374996/
+2026-03-04 15:46:32.522 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:32.522 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:32.537 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/jinya-ramen-bar-murray-130257/
+2026-03-04 15:46:32.734 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:32.734 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:32.760 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/sally-beauty-springfield-27922887/
+2026-03-04 15:46:33.317 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:33.317 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:33.328 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/zero-one-ice-glendale-24914857/
+2026-03-04 15:46:33.558 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:33.558 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:33.578 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/detroit-cookie-company-west-jordan-33313663/
+2026-03-04 15:46:33.843 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:33.843 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:33.858 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/red-robin-gourmet-burgers-and-brews-glendale-24722491/
+2026-03-04 15:46:34.113 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:34.113 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:34.124 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/the-yard-milkshake-bar-glendale-26013894/
+2026-03-04 15:46:34.871 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:34.871 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:34.887 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/sushi-from-fry's-by-snowfox-sierra-vista-24262497/
+2026-03-04 15:46:35.166 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:35.167 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:35.206 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/yogis-teriyaki-and-grill-phoenix-64339/
+2026-03-04 15:46:35.456 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:35.456 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:35.476 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/dunkin'-phoenix-1072187/
+2026-03-04 15:46:35.646 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:35.647 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:35.660 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/whataburger-phoenix-23197924/
+2026-03-04 15:46:36.728 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:36.728 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:36.747 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/jimmy-john's-phoenix-2302378/
+2026-03-04 15:46:37.184 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:37.920 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:37.921 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:37.937 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/bubbas-33-goodyear-33053873/
+2026-03-04 15:46:38.447 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:38.448 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:38.469 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/valle-luna-chandler-42578/
+2026-03-04 15:46:38.787 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:38.787 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:38.800 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/the-hot-chick-scottsdale-33485101/
+2026-03-04 15:46:38.837 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:38.838 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:38.853 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/freddy's-frozen-custard-&amp;-steakburgers-glendale-928707/
+2026-03-04 15:46:39.015 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:39.015 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:39.029 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/chipotle-mexican-grill-scottsdale-270034/
+2026-03-04 15:46:40.362 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:40.851 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:40.852 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:40.866 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/krave-bbq-phoenix-34512719/
+2026-03-04 15:46:41.352 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:41.352 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:41.384 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/tim-hortons-montr%C3%A9al-35098390/
+2026-03-04 15:46:41.865 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:41.865 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:41.879 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/panda-express-lake-havasu-city-621465/
+2026-03-04 15:46:41.968 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:41.968 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:42.019 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-CA/store/ben-&amp;-florentine-saint-j%C3%A9r%C3%B4me-35174442/
+2026-03-04 15:46:42.776 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:42.776 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:42.812 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/le-calebasse-trois-rivi%C3%A8res-33894549/
+2026-03-04 15:46:44.118 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:44.118 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:44.134 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/store/papa-pizza-gatineau-615480/
+2026-03-04 15:46:44.439 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:44.440 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:44.466 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/rj-indian-snacks-salaberry-de-valleyfield-32391847/
+2026-03-04 15:46:44.719 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:44.720 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:44.735 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/convenience/store/la-beaute-par-pharmaprix-montr%C3%A9al-24881213/
+2026-03-04 15:46:44.943 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:44.943 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:44.963 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/rancho-rustico-restaurant-tucson-23656984/
+2026-03-04 15:46:45.568 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:45.569 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:45.596 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/convenience/store/tigre-geant-trois-rivi%C3%A8res-33539114/
+2026-03-04 15:46:46.935 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:46.936 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:46.946 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/mauvais-garcons-montr%C3%A9al-40289431/
+2026-03-04 15:46:47.085 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:47.186 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:47.186 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:47.204 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/store/benny-&amp;-co.-laval-1253637/
+2026-03-04 15:46:48.329 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:48.329 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:48.342 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/bocao-sushi-charlotte-725226/
+2026-03-04 15:46:49.242 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:49.242 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:49.279 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/walgreens-tarboro-1532790/
+2026-03-04 15:46:49.511 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:49.512 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:49.524 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/namastay-world-market-greenville-2351845/
+2026-03-04 15:46:49.552 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:49.553 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:49.570 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/shelby-cafe-shelby-32294560/
+2026-03-04 15:46:49.634 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:49.634 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:49.668 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/safeway-beer,-wine-&amp;-spirits-scottsdale-23060661/
+2026-03-04 15:46:49.731 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:49.731 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:49.751 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/sushi-matsu-chateauguay-ch%C3%A2teauguay-1048497/
+2026-03-04 15:46:50.043 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:50.796 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:50.797 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:50.816 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/earthling-coffee-and-espresso-brevard-24782533/
+2026-03-04 15:46:50.914 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:50.914 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:50.928 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/paradise-juice-phoenix-353972/
+2026-03-04 15:46:51.632 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:51.632 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:51.650 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/papa-murphy's--pizza-wake-forest-538546/
+2026-03-04 15:46:52.439 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:52.440 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:52.456 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/little-caesars-garner-2300670/
+2026-03-04 15:46:52.613 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:52.613 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:52.629 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/subway-fayetteville-24524025/
+2026-03-04 15:46:53.210 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:53.211 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:53.234 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/sheetz-goldsboro-2458156/
+2026-03-04 15:46:53.510 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:53.510 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:53.513 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:53.514 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:53.517 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:53.518 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:53.522 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/i-love-ny-pizza-chapel-hill-245479/
+2026-03-04 15:46:53.528 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/smash-&amp;-sizzle-high-point-34407073/
+2026-03-04 15:46:53.545 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/dollar-general-ahoskie-2436934/
+2026-03-04 15:46:54.122 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:54.122 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:54.137 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/subway-liberty-25684495/
+2026-03-04 15:46:54.859 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:54.859 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:54.884 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/food-lion-raleigh-27550868/
+2026-03-04 15:46:55.132 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:55.133 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:55.151 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/teds-brick-oven-pizza---341-northeast-blvd-clinton-32754441/
+2026-03-04 15:46:55.735 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:55.736 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:55.747 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-CA/store/grillades-torino-vaudreuil-dorion-23900103/
+2026-03-04 15:46:56.012 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:56.012 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:56.030 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/convenience/store/speedway-chocowinity-22965937/
+2026-03-04 15:46:56.477 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:56.477 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:56.502 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/apotheca-high-point-33882163/
+2026-03-04 15:46:56.611 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:56.612 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:56.642 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/tractor-supply-co-new-bern-23939552/
+2026-03-04 15:46:57.111 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:57.210 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:46:57.386 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:57.386 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:57.402 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/mama-nem's-dining-and-catering-llc-selma-25751754/
+2026-03-04 15:46:57.610 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:57.611 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:57.626 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/hibbett-waynesville-36661733/
+2026-03-04 15:46:57.830 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:57.830 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:57.858 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/champs-sports-raleigh-32879047/
+2026-03-04 15:46:58.569 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:58.569 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:58.580 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/mmj-soul-cuisine-clinton-27651996/
+2026-03-04 15:46:59.319 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:59.319 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:59.336 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/first-watch-birmingham-927201/
+2026-03-04 15:46:59.778 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:59.779 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:59.794 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/mi-casita-mexican-restaurant-fort-payne-617972/
+2026-03-04 15:46:59.915 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:46:59.915 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:46:59.940 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/chipotle-mexican-grill-fayetteville-32239176/
+2026-03-04 15:47:00.711 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:00.712 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:00.725 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/foxs-pizza-den-trussville-24840978/
+2026-03-04 15:47:00.813 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:00.814 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:00.832 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:00.832 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:00.844 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/hungry-howie's-mobile-2668260/
+2026-03-04 15:47:00.860 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/jack's-montgomery-511262/
+2026-03-04 15:47:01.975 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:01.976 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:02.003 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/food-lion-alcohol-matthews-29630627/
+2026-03-04 15:47:02.013 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:02.014 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:02.029 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/subway-harvest-34804581/
+2026-03-04 15:47:02.299 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:03.115 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:03.115 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:03.141 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/starbucks-madison-37156937/
+2026-03-04 15:47:03.637 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:03.638 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:03.657 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/homewood-bagel-company--homewood-942569/
+2026-03-04 15:47:04.012 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:04.013 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:04.035 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/bibb-street-pizza-company-montgomery-438038/
+2026-03-04 15:47:05.119 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:05.119 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:05.144 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/rodney-scott's-bbq-birmingham-2662229/
+2026-03-04 15:47:05.174 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:05.175 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:05.217 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/taco-bell-moulton-40198829/
+2026-03-04 15:47:05.409 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:05.821 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:05.822 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:05.852 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/ruby-dee's-gadsden-40550797/
+2026-03-04 15:47:05.921 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:05.922 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:05.940 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/krystal-london-1423627/
+2026-03-04 15:47:06.528 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:06.638 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:06.639 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:06.663 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/sally-beauty-waynesville-27923873/
+2026-03-04 15:47:07.209 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:07.209 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:07.230 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/dollar-general-upton-35312367/
+2026-03-04 15:47:07.458 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:07.459 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:07.487 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/subway-richmond-23980267/
+2026-03-04 15:47:08.525 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:08.525 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:08.550 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/crust-pizzeria-lexington-33481475/
+2026-03-04 15:47:09.531 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:09.532 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:09.539 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:09.540 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:09.551 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/taco-bell-hebron-1200587/
+2026-03-04 15:47:09.564 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/bruegger's-bagels-louisville-241138/
+2026-03-04 15:47:09.913 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:09.914 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:09.930 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/los-compadres-taco-truck-lexington-23091258/
+2026-03-04 15:47:09.937 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:09.937 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:09.952 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/hibbett-murray-36662673/
+2026-03-04 15:47:10.129 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:10.130 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:10.148 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/gyro-king-and-grill-south-brunswick-township-708120/
+2026-03-04 15:47:11.510 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:11.510 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:11.530 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/el-mazatlan-franklin-1751282/
+2026-03-04 15:47:11.853 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:11.853 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:11.911 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/siena-italian-creative-cuisine-voorhees-township-1362981/
+2026-03-04 15:47:12.047 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:12.643 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:12.644 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:12.661 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/franks-restaurant-bound-brook-24802147/
+2026-03-04 15:47:12.775 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:12.775 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:12.793 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/tenitoluwa-foodies-east-orange-27647090/
+2026-03-04 15:47:12.993 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:12.993 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:13.025 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/barnes-&amp;-noble-princeton-35408043/
+2026-03-04 15:47:14.883 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:14.883 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:14.919 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/la-rumba-bar-&amp;-restaurant-passaic-25860309/
+2026-03-04 15:47:15.069 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:15.070 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:15.115 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/krish-indian-bistro-sewell-1381444/
+2026-03-04 15:47:15.964 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:15.964 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:15.988 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/linglongxuan-jersey-city-24481165/
+2026-03-04 15:47:17.040 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:17.040 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:17.106 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/quickchek-highlands-1003969/
+2026-03-04 15:47:17.576 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:17.577 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:17.622 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/super-buy-rite-moorestown-moorestown-29933918/
+2026-03-04 15:47:18.174 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:18.174 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:18.198 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/little-mias-seaside-heights-273280/
+2026-03-04 15:47:18.915 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:19.311 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:19.311 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:19.332 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/vero-pizzeria-bellmawr-24291544/
+2026-03-04 15:47:19.410 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:19.410 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:19.424 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/mr.lopez-mexican-restaurant---261-main-st-keansburg-33153067/
+2026-03-04 15:47:20.771 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:20.772 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:20.818 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/us-fried-chicken-franklin-township-643756/
+2026-03-04 15:47:21.376 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:21.377 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:21.390 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/the-great-burrito-edgewater-144524/
+2026-03-04 15:47:21.838 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:21.838 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:21.849 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/farmacie-by-the-french-market-highlands-27839650/
+2026-03-04 15:47:21.971 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:21.971 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:21.978 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:21.978 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:21.985 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/sabor-criollo-lakewood-27718418/
+2026-03-04 15:47:21.994 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/domino's-dumont-34228575/
+2026-03-04 15:47:23.263 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:23.264 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:23.305 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/sanford-and-son-sandwiches-jersey-city-28762666/
+2026-03-04 15:47:24.082 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:24.082 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:24.113 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/mcdonald's-dayton-680304/
+2026-03-04 15:47:24.474 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:24.474 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:24.524 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/walgreens-decatur-1111627/
+2026-03-04 15:47:24.974 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:24.974 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:25.011 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/meefs-pasteria-beavercreek-34700841/
+2026-03-04 15:47:25.550 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:25.550 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:25.583 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/ichiban-roxbury-township-2421031/
+2026-03-04 15:47:25.868 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:25.868 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:25.914 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/surfside-convenient-eastlake-34674933/
+2026-03-04 15:47:26.611 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:26.612 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:26.613 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:26.613 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:26.625 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/chipotle-mexican-grill-ravenna-812404/
+2026-03-04 15:47:26.640 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/panera-bread-north-ridgeville-856399/
+2026-03-04 15:47:26.857 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:26.858 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:26.871 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/dan-bakery-&amp;-cafe-morristown-36867598/
+2026-03-04 15:47:27.076 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:27.077 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:27.089 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/huey-magoo's-dayton-23374783/
+2026-03-04 15:47:27.214 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:27.772 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:27.772 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:27.813 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/the-ice-cream-shop-columbus-24415637/
+2026-03-04 15:47:28.509 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:28.652 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:29.264 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:29.264 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:29.283 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/wings-and-fish-cleveland-30186681/
+2026-03-04 15:47:29.366 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:29.366 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:29.385 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/arby's-kent-1944775/
+2026-03-04 15:47:30.411 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:30.411 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:30.426 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/bloom-haus-by-kroger-mason-24185376/
+2026-03-04 15:47:30.932 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:30.932 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:30.957 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/dollar-general-prospect-30942198/
+2026-03-04 15:47:31.093 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:31.094 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:31.122 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/mcdonald's-swanton-23695428/
+2026-03-04 15:47:31.310 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:31.311 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:31.360 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/biggby-coffee-bryan-23222816/
+2026-03-04 15:47:32.138 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:32.139 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:32.163 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/domino's-northwood-33937967/
+2026-03-04 15:47:32.351 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:32.351 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:32.374 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/meijer-beer,-wine-&amp;-spirits-reynoldsburg-24017533/
+2026-03-04 15:47:32.839 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:32.840 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:32.853 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/buca-di-beppo-columbus-42542/
+2026-03-04 15:47:33.232 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:33.813 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:33.814 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:33.826 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/jersey-mike's-subs-new-albany-2641302/
+2026-03-04 15:47:34.440 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:34.441 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:34.457 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/last-resort-riverfront-bar-and-grill-toronto-26237682/
+2026-03-04 15:47:34.914 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:34.914 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:34.938 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/gordon-foodservice-store-macedonia-33876768/
+2026-03-04 15:47:35.011 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:35.011 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:35.028 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/kfc-milford-2550793/
+2026-03-04 15:47:35.547 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:35.547 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:35.564 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/buffalo-wild-wings-blue-ash-100890/
+2026-03-04 15:47:35.664 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:35.665 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:35.710 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/manhattan-deli---mentor-mentor-30535671/
+2026-03-04 15:47:35.811 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:37.375 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:37.375 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:37.393 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/ajm-mexican-restaurant-cincinnati-28054462/
+2026-03-04 15:47:37.658 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:37.659 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:37.676 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/los-dos-carnales-food-truck---3800-n-o-st-fort-smith-34594813/
+2026-03-04 15:47:37.757 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:38.110 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:38.110 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:38.124 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/checkers-&amp;-rally's-paragould-25103891/
+2026-03-04 15:47:38.184 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:38.184 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:38.201 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/mcdonald's-tontitown-658984/
+2026-03-04 15:47:38.806 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:38.807 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:38.836 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/food-lion-nashville-27550186/
+2026-03-04 15:47:39.813 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:39.813 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:39.843 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/dollar-general-little-rock-2308836/
+2026-03-04 15:47:40.050 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:40.050 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:40.066 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/pepper's-pizzeria-thibodaux-34959885/
+2026-03-04 15:47:40.460 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:40.677 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:40.677 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:40.693 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/blu-basil-asian-fusion-lafayette-422280/
+2026-03-04 15:47:40.769 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:40.770 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:40.787 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/united-dairy-farmers--udf-cincinnati-27547958/
+2026-03-04 15:47:41.113 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:41.114 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:41.128 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/tadashi-walker-27636642/
+2026-03-04 15:47:42.265 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:42.766 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:42.767 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:42.778 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/sauce-city-wings-bowling-green-34700401/
+2026-03-04 15:47:43.260 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:43.260 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:43.276 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:43.277 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:43.277 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/buffalo-wild-wings-lafayette-457526/
+2026-03-04 15:47:43.293 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/cvs-opelousas-1461425/
+2026-03-04 15:47:43.461 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:43.621 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:43.621 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:43.641 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/the-potato-place-lafayette-25136448/
+2026-03-04 15:47:44.074 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:44.074 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:44.087 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/el-paso-mexican-grill-gonzales-324303/
+2026-03-04 15:47:45.533 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:45.534 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:45.558 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/fuji-ramen-house-harahan-27576431/
+2026-03-04 15:47:46.011 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:46.012 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:46.035 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/albertsons-floral-lafayette-24266770/
+2026-03-04 15:47:46.426 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:46.427 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:46.442 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/chick-fil-a-chesterfield-431722/
+2026-03-04 15:47:46.691 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:47.131 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:47.131 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:47.157 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/china-king-(loughborough-ave)-st.-louis-170771/
+2026-03-04 15:47:47.512 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:47.513 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:47.540 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/family-dollar-kansas-city-31614055/
+2026-03-04 15:47:48.707 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:48.877 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:49.350 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:49.351 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:49.367 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/whataburger-republic-34530113/
+2026-03-04 15:47:49.721 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:49.722 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:49.743 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/country-mart-mountain-grove-35453721/
+2026-03-04 15:47:50.130 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:50.130 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:50.142 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/menchies-frozen-yogurt-o%27fallon-326797/
+2026-03-04 15:47:50.412 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:50.413 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:50.426 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/smalls-sliders-west-monroe-25754522/
+2026-03-04 15:47:50.715 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:50.716 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:50.741 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/jersey-mike's-subs-kirkwood-25464339/
+2026-03-04 15:47:51.298 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:51.299 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:51.327 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/walgreens-saint-ann-1117118/
+2026-03-04 15:47:51.845 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:51.845 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:51.859 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/meddys-oklahoma-city-32387239/
+2026-03-04 15:47:52.691 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:52.692 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:52.716 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/subway-springfield-404970/
+2026-03-04 15:47:52.812 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:52.812 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:52.833 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/mcalister's-deli-fenton-227012/
+2026-03-04 15:47:52.840 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:52.840 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:52.852 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/pizza-hut-grove-24026043/
+2026-03-04 15:47:53.242 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:53.242 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:53.258 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/burger-king-pauls-valley-1793615/
+2026-03-04 15:47:53.853 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:53.853 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:53.879 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/7-eleven-del-city-34027479/
+2026-03-04 15:47:54.515 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:54.554 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:54.555 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:54.570 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/cowboy-chicken-oklahoma-city-132492/
+2026-03-04 15:47:54.934 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:54.935 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:54.963 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/el-drive-thru-by-don-pibil-stillwater-36607815/
+2026-03-04 15:47:55.057 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:55.207 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:55.207 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:55.239 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/dollar-general-fletcher-25045859/
+2026-03-04 15:47:55.352 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:55.353 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:55.370 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/whiskey-glasses-saloon-fenton-1529540/
+2026-03-04 15:47:55.865 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:55.865 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:55.880 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/subway-portage-914321/
+2026-03-04 15:47:56.343 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:56.649 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:57.285 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:57.285 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:57.310 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/gordon-foodservice-store-portage-33877113/
+2026-03-04 15:47:57.477 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:57.478 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:57.519 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/papa's-italian-sausage-kalamazoo-35287549/
+2026-03-04 15:47:57.674 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:57.675 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:57.706 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/checkers-&amp;-rally's-flint-25050258/
+2026-03-04 15:47:57.882 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:47:58.668 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:58.668 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:58.680 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/al`s-subs-&amp;-pizza-ann-arbor-2410166/
+2026-03-04 15:47:59.482 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:47:59.483 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:47:59.513 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/dollar-general-battle-creek-2279805/
+2026-03-04 15:48:00.172 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:00.173 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:00.189 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/family-dollar-saginaw-31613611/
+2026-03-04 15:48:00.311 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:00.633 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:00.634 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:00.642 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:00.643 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:00.654 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/the-burger-truck-dearborn-heights-24641391/
+2026-03-04 15:48:00.660 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/bloom-haus-by-kroger-maumelle-24296160/
+2026-03-04 15:48:01.026 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:01.027 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:01.039 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/charleys-cheesesteaks-and-wings-detroit-31335145/
+2026-03-04 15:48:01.763 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:01.763 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:01.784 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/dollar-general-oak-park-2298183/
+2026-03-04 15:48:02.112 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:02.112 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:02.127 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/penn-station-clinton-township-1123948/
+2026-03-04 15:48:02.824 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:02.824 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:02.842 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/domino's-comstock-park-33812637/
+2026-03-04 15:48:03.670 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:03.670 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:03.686 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/the-bubble-tea-shop-bay-city-25759444/
+2026-03-04 15:48:04.461 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:04.462 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:04.488 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/louisiana-creole-gumbo-detroit-215524/
+2026-03-04 15:48:04.550 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:04.550 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:04.574 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/mcdonald's-rockford-24955563/
+2026-03-04 15:48:04.838 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:04.838 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:04.869 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/sebewaing-market-sebewaing-31987645/
+2026-03-04 15:48:05.504 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:05.802 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:05.802 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:05.826 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/mrbeast-burger-alpena-23934994/
+2026-03-04 15:48:06.210 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:06.210 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:06.231 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/aldi-portage-34146727/
+2026-03-04 15:48:06.437 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:06.438 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:06.465 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/cvs-hamtramck-1233340/
+2026-03-04 15:48:07.368 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:07.369 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:07.385 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/convenience/store/the-container-store-newark-37612955/
+2026-03-04 15:48:08.187 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:08.187 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:08.200 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/smash-shack-burger-bar-dover-33111063/
+2026-03-04 15:48:08.265 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:08.266 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:08.289 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/cracker-barrel-rehoboth-beach-751311/
+2026-03-04 15:48:09.111 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:09.111 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:09.139 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/pizza-time-foxborough-24813631/
+2026-03-04 15:48:09.618 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:10.874 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:10.874 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:10.899 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/tim-hortons-rochester-hills-25014945/
+2026-03-04 15:48:11.129 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:11.129 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:11.149 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/moes-shawarma-warren-35257991/
+2026-03-04 15:48:11.526 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:11.527 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:11.546 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:11.546 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:11.547 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/breakfast-beauties-millbury-1384586/
+2026-03-04 15:48:11.560 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/east-dedham-pizzeria--dedham-32823415/
+2026-03-04 15:48:11.868 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:11.869 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:11.894 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/pressed-cafe-boston-36494379/
+2026-03-04 15:48:12.460 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:12.780 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:13.717 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:13.733 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:13.734 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:13.760 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/djs-famous-wings-barnstable-24675155/
+2026-03-04 15:48:14.866 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:14.866 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:14.892 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/old-navy-boston-36556249/
+2026-03-04 15:48:15.315 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:15.315 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:15.339 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/papa-gino's-westborough-350867/
+2026-03-04 15:48:15.370 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:15.371 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:15.387 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/buffalo's-pizza-&amp;-subs-norwood-350946/
+2026-03-04 15:48:15.646 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:15.647 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:15.672 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/chateau-restaurant-waltham-7812/
+2026-03-04 15:48:16.020 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:16.020 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:16.040 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/dunkin'-methuen-1219407/
+2026-03-04 15:48:17.238 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:17.321 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:17.321 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:17.336 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/whistle-stop-smokehouse-monrovia-989747/
+2026-03-04 15:48:17.407 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:17.407 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:17.434 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/best-hunan-restaurant-columbia-24288094/
+2026-03-04 15:48:18.627 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:18.628 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:18.645 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/falafel-inc-college-park-30914374/
+2026-03-04 15:48:18.648 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:18.648 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:18.657 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/difebos-restaurant-bethany-beach-bethany-beach-24111628/
+2026-03-04 15:48:18.754 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:18.755 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:18.771 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/el-rincon-latino-restaurante-brooklyn-35322654/
+2026-03-04 15:48:19.975 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:20.420 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:20.421 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:20.451 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/la-mexicana-germantown-35647284/
+2026-03-04 15:48:20.824 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:20.824 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:20.841 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/chercher-bethesda-246761/
+2026-03-04 15:48:21.411 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:21.411 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:21.428 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/gimme-more-thai-rockville-32906159/
+2026-03-04 15:48:21.610 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:21.610 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:21.624 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/takito-hagerstown-29590237/
+2026-03-04 15:48:21.645 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:21.645 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:21.662 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/dog-haus-bethesda-331373/
+2026-03-04 15:48:23.524 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:24.239 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:24.240 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:24.258 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/sushi-from-dillons-by-zenshi-wichita-24616226/
+2026-03-04 15:48:24.555 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:24.555 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:24.582 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/convenience/store/ulta-beauty-hagerstown-28587733/
+2026-03-04 15:48:25.352 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:25.353 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:25.379 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/casey's-eureka-23676621/
+2026-03-04 15:48:25.682 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:25.683 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:25.701 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/dunkin'-ellicott-city-1067954/
+2026-03-04 15:48:25.984 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:25.985 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:25.997 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/pizza-hut-leawood-2418203/
+2026-03-04 15:48:26.217 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:26.325 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:26.326 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:26.344 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/legal-sea-foods-&amp;-c-bar-braintree-1510783/
+2026-03-04 15:48:27.357 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:27.357 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:27.372 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/pellegrini-pizza-las-vegas-71560/
+2026-03-04 15:48:27.853 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:28.848 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:28.849 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:28.877 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/keystone-market-reno-32651103/
+2026-03-04 15:48:29.164 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:29.164 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:29.178 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/brick-wood-fired-bistro-prince-frederick-887248/
+2026-03-04 15:48:30.655 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:30.656 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:30.679 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/aldi-lenexa-24666641/
+2026-03-04 15:48:30.867 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:30.867 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:30.894 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/j'-snacks-washington-1607756/
+2026-03-04 15:48:30.933 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:30.934 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:30.950 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/safeway-deli-zephyr-cove-955733/
+2026-03-04 15:48:31.112 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:31.112 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:31.140 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/best-buy-las-vegas-26060031/
+2026-03-04 15:48:31.715 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:31.715 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:31.736 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/select-pizza-surrey-438426/
+2026-03-04 15:48:32.196 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:32.999 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:33.121 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:33.122 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:33.135 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/mr.-shawarma-vancouver-24499205/
+2026-03-04 15:48:33.310 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:33.310 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:33.322 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/the-blacc-boxx-las-vegas-126988/
+2026-03-04 15:48:33.410 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:33.411 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:33.427 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/mcdonald's-victoria-1354169/
+2026-03-04 15:48:33.854 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:34.513 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:35.664 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:35.665 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:35.691 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/papa-johns-pizza-canada-prince-george-2552070/
+2026-03-04 15:48:35.728 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:36.339 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:36.339 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:36.354 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/oishii-express-japanese-restaurant-salmon-arm-32211059/
+2026-03-04 15:48:37.033 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:37.034 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:37.053 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/convenience/store/kins-farm-market-port-moody-24863797/
+2026-03-04 15:48:37.079 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:37.079 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:37.104 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/belen-in-the-landing-braintree-37340805/
+2026-03-04 15:48:38.275 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:38.276 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:38.281 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:38.281 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:38.299 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/pizza-pizza-new-liskeard-31602459/
+2026-03-04 15:48:38.302 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/convenience/store/kins-farm-market-coquitlam-24863798/
+2026-03-04 15:48:38.525 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:38.526 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:38.567 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/opa!-of-greece-west-kelowna-27461756/
+2026-03-04 15:48:39.639 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:39.639 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:39.653 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/sweet-chilli-tonight-london-32439993/
+2026-03-04 15:48:39.677 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:39.677 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:39.689 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:39.689 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:39.706 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/starbucks-las-vegas-33968121/
+2026-03-04 15:48:39.711 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/convenience/store/petsmart-newmarket-1873535/
+2026-03-04 15:48:41.010 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:41.209 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:41.209 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:41.231 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/booster-juice-coquitlam-204545/
+2026-03-04 15:48:41.362 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:41.363 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:41.380 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/kanafani-sweets-&amp;-coffee-mississauga-31529513/
+2026-03-04 15:48:41.860 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:41.860 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:41.875 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/wingstreet-by-pizza-hut-burlington-24206034/
+2026-03-04 15:48:42.219 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:42.220 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:42.258 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/kothur-indian-cuisine-london-2374267/
+2026-03-04 15:48:43.736 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:43.736 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:43.765 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/zaad-toronto-26267761/
+2026-03-04 15:48:43.815 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:43.815 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:43.852 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/calorienomb-brampton-35990823/
+2026-03-04 15:48:43.978 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:43.978 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:43.985 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:43.986 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:44.002 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/wendy's-midland-24557685/
+2026-03-04 15:48:44.004 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/yogen-fruz-vaughan-1668459/
+2026-03-04 15:48:44.779 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:44.780 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:44.791 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/sugar-marmalade-mississauga-34804619/
+2026-03-04 15:48:45.360 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:45.361 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:45.389 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/convenience/store/dollarama-whitchurch-stouffville-24443381/
+2026-03-04 15:48:45.832 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:45.833 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:45.849 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/rocky-mtn-chocolate-barrie-24148691/
+2026-03-04 15:48:45.979 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:46.414 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:46.415 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:46.428 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:46.429 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:46.443 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/chicken-chicken-by-pizza-pizza-toronto-1491036/
+2026-03-04 15:48:46.459 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/snoopy-dogs-north-york-33015161/
+2026-03-04 15:48:46.832 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:46.833 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:46.861 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/tim-hortons-toronto-23289330/
+2026-03-04 15:48:47.347 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:48.063 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:48.063 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:48.086 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-CA/store/raunak-indian-cuisine-surrey-24537040/
+2026-03-04 15:48:49.025 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:49.026 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:49.043 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/tim-hortons-toronto-23289340/
+2026-03-04 15:48:49.295 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:49.295 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:49.309 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/gustitos-de-mi-tierra---2708-jane-st-toronto-37437425/
+2026-03-04 15:48:49.414 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:49.415 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:49.430 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/subway-london-455318/
+2026-03-04 15:48:50.322 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:50.322 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:50.337 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/subway-mississauga-455136/
+2026-03-04 15:48:50.659 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:50.660 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:50.677 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/convenience/store/lcbo-east-gwillimbury-25146157/
+2026-03-04 15:48:50.913 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:50.914 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:50.932 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/store/royal-paan-pickering-579495/
+2026-03-04 15:48:52.004 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:52.005 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:52.022 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/purpel-toronto-28762308/
+2026-03-04 15:48:52.170 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:52.171 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:52.193 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/pizza-hut-kincardine-28532472/
+2026-03-04 15:48:53.261 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:53.261 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:53.273 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/panda-express-omaha-669940/
+2026-03-04 15:48:53.494 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:53.494 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:53.514 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-CA/store/flava-ceen-toronto-26278009/
+2026-03-04 15:48:53.642 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:53.642 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:53.657 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/zen-coffee-company-lincoln-30947503/
+2026-03-04 15:48:54.085 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:55.374 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:55.374 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:55.395 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/u-stop-convenience-shops-lincoln-23390648/
+2026-03-04 15:48:55.621 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:55.621 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:55.656 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/walgreens-stevens-point-1114096/
+2026-03-04 15:48:56.270 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:56.271 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:56.289 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/tim-hortons-scarborough-30173064/
+2026-03-04 15:48:56.560 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:56.561 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:56.577 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/michaels-madison-29845904/
+2026-03-04 15:48:57.380 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:57.380 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:57.405 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/holiday-stationstores-superior-965704/
+2026-03-04 15:48:57.954 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:48:58.448 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:58.448 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:58.505 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/kwik-trip-ashwaubenon-24297226/
+2026-03-04 15:48:58.613 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:58.613 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:58.630 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/cousins-subs-milwaukee-364279/
+2026-03-04 15:48:59.212 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:59.212 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:59.229 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/cold-stone-creamery-green-bay-519847/
+2026-03-04 15:48:59.515 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:48:59.515 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:48:59.537 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/subway-green-bay-533663/
+2026-03-04 15:49:00.182 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:00.183 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:00.197 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-CA/store/kfc-vaughan-1138838/
+2026-03-04 15:49:00.292 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:00.292 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:00.313 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/pizza-pizza-winnipeg-625754/
+2026-03-04 15:49:01.777 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:01.778 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:01.785 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:01.785 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:01.789 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/durar-coffee-morgantown-27501040/
+2026-03-04 15:49:01.803 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/par-mar-stores-huntington-26129630/
+2026-03-04 15:49:02.008 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:02.129 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:02.129 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:02.147 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/angelos-brick-oven-pizza-martinsburg-24186449/
+2026-03-04 15:49:02.257 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:02.257 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:02.277 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/chili's-grill-&amp;-bar-barboursville-622200/
+2026-03-04 15:49:03.953 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:03.954 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:03.973 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/cvs-cedarburg-1233839/
+2026-03-04 15:49:04.063 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:04.063 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:04.083 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/family-dollar-greenwood-31602869/
+2026-03-04 15:49:04.216 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:04.217 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:04.231 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-CA/store/seylanis-mississauga-39120991/
+2026-03-04 15:49:04.336 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:04.336 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:04.354 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/crave-kofi-house---200-w-railroad-st-long-beach-32467717/
+2026-03-04 15:49:05.014 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:05.014 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:05.032 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/outback-steakhouse-tupelo-728911/
+2026-03-04 15:49:05.362 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:05.363 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:05.378 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/dewy-dew-bugz-diberville-32467631/
+2026-03-04 15:49:05.512 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:05.512 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:05.529 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/the-flower-&amp;-gift-boutique-milwaukee-1656023/
+2026-03-04 15:49:05.561 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:05.561 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:05.574 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/la-patrona-picoso-snack-bar-gulfport-39247789/
+2026-03-04 15:49:06.566 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:06.566 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:06.578 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/baskin-robbins-oak-ridge-32175877/
+2026-03-04 15:49:06.736 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:06.736 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:06.753 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/playa-bowls-murfreesboro-33975359/
+2026-03-04 15:49:07.772 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:07.773 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:07.777 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:07.778 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:07.798 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/family-dollar-bulls-gap-31610641/
+2026-03-04 15:49:07.800 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/dollar-general-greeneville-2322726/
+2026-03-04 15:49:08.036 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:08.036 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:08.049 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/the-garden-bar-athens-29694998/
+2026-03-04 15:49:08.086 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:08.087 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:08.108 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/awaken-coffee-knoxville-29520950/
+2026-03-04 15:49:08.562 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:08.562 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:08.585 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/taste-of-china-murfreesboro-24757683/
+2026-03-04 15:49:08.736 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:08.736 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:08.754 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/convenience/store/highway-64-wine-and-spirits-somerville-24773691/
+2026-03-04 15:49:09.602 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:09.741 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:09.741 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:09.764 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/bb.q-chicken-clarksville-25107564/
+2026-03-04 15:49:10.254 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:10.254 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:10.274 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/captain-d's-seafood-springfield-1029678/
+2026-03-04 15:49:10.327 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:10.327 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:10.345 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/papa-johns-pizza-harrison-24873069/
+2026-03-04 15:49:10.471 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:10.472 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:10.485 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/sips-nashville-486540/
+2026-03-04 15:49:10.864 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:10.864 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:10.885 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/taco-bell-knoxville-1200277/
+2026-03-04 15:49:11.115 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:11.115 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:11.134 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/sombreros-mexican-grill-crump-24872432/
+2026-03-04 15:49:11.328 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:12.308 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:12.309 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:12.345 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/biscuits-and-jams-llc-bartlett-25000493/
+2026-03-04 15:49:13.584 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:13.584 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:13.602 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/the-daydream-diner-lawrenceburg-27802444/
+2026-03-04 15:49:13.644 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:13.644 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:13.665 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/mimi's-cafe-knoxville-1474444/
+2026-03-04 15:49:13.869 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:13.870 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:13.886 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/donatos-pizza-knoxville-23158368/
+2026-03-04 15:49:14.981 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:14.982 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:15.001 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/convenience/store/sally-beauty-cleveland-27922775/
+2026-03-04 15:49:15.475 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:15.475 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:15.489 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/mangiamo-gulfport-31443593/
+2026-03-04 15:49:15.758 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:15.759 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:15.778 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/red's-savoy-pizza-burnsville-24277272/
+2026-03-04 15:49:16.221 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:16.221 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:16.236 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/the-country's-best-chicken-monticello-1441283/
+2026-03-04 15:49:16.606 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:16.814 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:16.815 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:16.828 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/wendy's-lebanon-1287823/
+2026-03-04 15:49:17.971 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:17.971 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:17.993 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/cullens-ice-cream-champlin-27549366/
+2026-03-04 15:49:18.760 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:19.479 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:19.479 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:19.496 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/culver's-butterburgers-and-frozen-custard-wayzata-28031981/
+2026-03-04 15:49:19.608 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:19.609 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:19.632 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/mcdonald's-des-moines-659553/
+2026-03-04 15:49:20.204 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:20.776 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:20.776 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:20.788 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/hillside-chicken-cedar-falls-33473753/
+2026-03-04 15:49:21.041 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:21.041 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:21.060 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/convenience/store/speedway-white-bear-lake-22967771/
+2026-03-04 15:49:21.816 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:21.816 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:21.834 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/ihop-farmington-959413/
+2026-03-04 15:49:21.871 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:21.872 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:21.916 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/pardon-my-cheesesteak-kingsport-25063762/
+2026-03-04 15:49:22.732 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:22.732 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:22.743 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/ickey-nickel-bar-&amp;-grill-sioux-city-810009/
+2026-03-04 15:49:22.825 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:22.825 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:22.842 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/starbucks-espa%C3%B1ola-24638598/
+2026-03-04 15:49:24.245 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:24.245 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:24.259 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/big-5-sporting-goods-los-lunas-37130101/
+2026-03-04 15:49:25.048 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:25.048 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:25.059 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/little-caesars-albuquerque-1161095/
+2026-03-04 15:49:25.400 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:25.400 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:25.426 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/convenience/store/cub-grocery-cottage-grove-25112452/
+2026-03-04 15:49:25.556 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:25.557 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:25.579 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/starbucks-pocatello-24221051/
+2026-03-04 15:49:25.842 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:25.842 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:25.863 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/oasis-market-&amp;-deli--(midtown-global-market)-minneapolis-1670407/
+2026-03-04 15:49:27.427 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:27.428 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:27.449 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/island-shave-icer-and-creamery-kapolei-2400920/
+2026-03-04 15:49:27.660 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:28.069 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:28.069 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:28.082 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/honey-hippo-play-cafe-great-falls-29217617/
+2026-03-04 15:49:28.612 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:28.613 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:28.631 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/european-market-of-northglenn-northglenn-715833/
+2026-03-04 15:49:30.804 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:30.959 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:30.959 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:30.988 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/convenience/store/safeway-colorado-springs-1585707/
+2026-03-04 15:49:31.094 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:31.094 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:31.117 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/king-soopers-aurora-35799010/
+2026-03-04 15:49:31.653 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:31.654 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:31.666 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/bloom-haus-by-city-market-montrose-24184997/
+2026-03-04 15:49:32.370 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:32.711 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:32.712 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:32.729 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/homebase-burger-shack-twin-falls-24390800/
+2026-03-04 15:49:34.227 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:34.227 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:34.251 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/smoothie-king-parker-28612279/
+2026-03-04 15:49:34.360 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:34.360 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:34.379 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/chaplin's-cafe-bayam%C3%B3n-23389745/
+2026-03-04 15:49:35.145 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:35.146 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:35.163 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/jollibee-calgary-969276/
+2026-03-04 15:49:35.332 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:35.332 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:35.365 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/mcdonald's-denver-679488/
+2026-03-04 15:49:36.175 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:36.175 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:36.203 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/convenience/store/petco-helena-25109391/
+2026-03-04 15:49:36.851 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:36.851 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:36.865 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/store/chongs-cafe-pueblo-31814669/
+2026-03-04 15:49:37.272 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:37.272 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:37.317 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/evario-kitchen-+-bar-edmonton-1763461/
+2026-03-04 15:49:37.451 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:37.452 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:37.466 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/taste-of-north-china--edmonton-23069175/
+2026-03-04 15:49:38.151 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:38.151 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:38.170 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-CA/store/dairy-queen-edmonton-25015484/
+2026-03-04 15:49:38.852 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:38.852 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:38.875 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-CA/convenience/store/london-drugs-sherwood-park-24176845/
+2026-03-04 15:49:39.325 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:39.325 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:39.348 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/subway-grande-prairie-642234/
+2026-03-04 15:49:39.471 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:39.472 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:39.484 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-CA/store/a-wish-cake-&amp;-cafe-calgary-99599/
+2026-03-04 15:49:40.125 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:40.126 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:40.137 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-CA/store/peshawari-kabab-hut-calgary-27802754/
+2026-03-04 15:49:40.262 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:40.485 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:40.486 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:40.516 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-CA/store/mcdonald's-calgary-1140473/
+2026-03-04 15:49:40.739 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:41.830 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:41.831 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:41.844 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/store/el-jannah-preston-25993677/
+2026-03-04 15:49:42.010 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:42.010 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:42.022 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/store/pista-house-coburg-1543701/
+2026-03-04 15:49:42.472 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:42.473 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:42.486 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/dunkin'-frisco-36217838/
+2026-03-04 15:49:42.658 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:42.659 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:42.685 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-AU/store/kfc-balwyn-29648079/
+2026-03-04 15:49:43.819 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:43.824 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:43.825 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:43.844 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-AU/store/tao-dumplings-northcote-2388604/
+2026-03-04 15:49:44.510 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:44.511 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:44.536 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/mr.-cheesesteak-&amp;-co-melton-24815132/
+2026-03-04 15:49:45.541 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:45.541 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:45.557 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/store/alhamdulillah-biryani-&amp;-mandi-prahran-1444306/
+2026-03-04 15:49:46.417 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:46.418 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:46.438 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-AU/store/sushi-sushi-preston-23863645/
+2026-03-04 15:49:47.206 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:47.207 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:47.224 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/cold-rock-ice-creamery-belmont-31438943/
+2026-03-04 15:49:48.099 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:48.100 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:48.128 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-AU/convenience/store/bws-craigieburn-26213096/
+2026-03-04 15:49:48.794 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:48.794 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:48.823 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/office-depot-officemax-colorado-springs-2495688/
+2026-03-04 15:49:48.948 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:48.948 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:48.960 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/store/gigis-kiosk-mulgrave-40233823/
+2026-03-04 15:49:49.159 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:49.160 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:49.176 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/oishi-bento-providence-37967935/
+2026-03-04 15:49:50.091 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:50.609 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:50.609 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:50.642 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-CA/store/proxi-halifax-35601716/
+2026-03-04 15:49:50.947 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:50.948 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:50.964 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/the-panini-press-southington-35447625/
+2026-03-04 15:49:51.490 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:51.490 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:51.505 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/next-door-burger-hartford-30928686/
+2026-03-04 15:49:51.614 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:51.615 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:51.629 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/homegrown-cafe-canaan-31989497/
+2026-03-04 15:49:53.570 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:53.571 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:53.592 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/convenience/store/michaels-lisbon-29845217/
+2026-03-04 15:49:54.069 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:54.070 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:54.084 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/store/sampsons-kitchen--nashville-39602693/
+2026-03-04 15:49:54.120 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:54.120 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:54.133 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/store/subway-newington-381075/
+2026-03-04 15:49:54.239 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:54.240 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:54.272 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/labella-wine-&amp;-spirit-2-uncasville-33607443/
+2026-03-04 15:49:54.751 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:54.751 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:54.774 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/riwayat-restaurant-berlin-39181009/
+2026-03-04 15:49:55.614 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:55.614 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:55.637 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-AU/store/poci's-pizza-&amp;-parma-mernda-24184369/
+2026-03-04 15:49:55.966 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:55.966 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:55.985 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-AU/store/kfc-cheltenham-1059122/
+2026-03-04 15:49:56.523 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:56.524 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:56.537 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/store/gateway-fish-&amp;-chips-langwarrin-1942681/
+2026-03-04 15:49:56.614 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:56.614 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:56.626 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/dairy-queen-auburn-1217751/
+2026-03-04 15:49:57.221 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:57.221 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:57.246 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/convenience/store/michaels-seabrook-29845309/
+2026-03-04 15:49:57.851 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:57.858 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:57.858 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:57.880 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/convenience/store/family-dollar-lancaster-31610935/
+2026-03-04 15:49:57.948 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:49:58.048 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:58.048 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:58.058 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/store/salt-bistro-saint-johnsbury-30969728/
+2026-03-04 15:49:59.553 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:59.554 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:59.577 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/store/wild-burger-sioux-falls-30873271/
+2026-03-04 15:49:59.697 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:59.698 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:59.710 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/convenience/store/gnc-portsmouth-35684060/
+2026-03-04 15:49:59.734 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:59.734 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:59.752 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/store/papa-corazons-quesadillas-rapid-city-30923306/
+2026-03-04 15:49:59.828 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:49:59.828 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:49:59.860 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/noodle-paradise-windsor-1532541/
+2026-03-04 15:50:00.399 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:00.400 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:00.416 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/store/christopher's-subs-&amp;-pizza-nashua-32597045/
+2026-03-04 15:50:00.750 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:00.751 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:00.763 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-AU/store/something-fishy-north-saint-marys-27479549/
+2026-03-04 15:50:01.477 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:01.478 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:01.498 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/convenience/store/chemist-warehouse-casula-30505192/
+2026-03-04 15:50:01.977 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:02.567 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:02.567 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:02.580 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-AU/store/blue-moon-south-indian-wentworthville-29504028/
+2026-03-04 15:50:02.712 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:02.713 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:02.733 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/convenience/store/7-eleven-bonnyrigg-heights-31982541/
+2026-03-04 15:50:03.902 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:03.902 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:03.935 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/asian-delight-restaurant-adamstown-adamstown-24391651/
+2026-03-04 15:50:04.159 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:04.160 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:04.173 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/store/noodles-at-the-bay-warners-bay-37966183/
+2026-03-04 15:50:04.493 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:04.493 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:04.516 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/store/creations-store-llc-new-britain-39824306/
+2026-03-04 15:50:05.276 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:05.277 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:05.302 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-AU/convenience/store/7-eleven-mcgraths-hill-24654193/
+2026-03-04 15:50:05.344 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:05.480 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:06.360 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:06.360 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:06.375 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-AU/store/not-just-a-box-bankstown-23385568/
+2026-03-04 15:50:07.341 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:07.341 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:07.360 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/store/mcdonald's-cessnock-25062470/
+2026-03-04 15:50:08.573 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:08.573 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:08.591 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-AU/store/street-food-holroyd-30886320/
+2026-03-04 15:50:10.164 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:10.165 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:10.179 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/store/chiking-korean-fried-chicken-pimlico-30842386/
+2026-03-04 15:50:10.426 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:10.427 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:10.444 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/bajeko-sekuwa(the-himalayan-grill)-merrylands-32234883/
+2026-03-04 15:50:10.824 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:10.825 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:10.840 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-AU/convenience/store/terrywhite-chemmart-burpengary-33310149/
+2026-03-04 15:50:11.347 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:11.348 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:11.377 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-AU/store/no.1-malatang-bondi-junction-1431977/
+2026-03-04 15:50:12.761 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:13.117 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:13.117 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:13.132 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/store/oros-greek-chermside-west-41134097/
+2026-03-04 15:50:13.343 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:13.343 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:13.368 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-AU/store/product-of-italy-minchinbury-32763193/
+2026-03-04 15:50:13.864 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:13.865 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:13.896 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-AU/convenience/store/liquorland-redcliffe-24657583/
+2026-03-04 15:50:14.682 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:14.683 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:14.703 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/store/domino's-fargo-34108613/
+2026-03-04 15:50:15.752 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:15.753 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:15.772 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-AU/store/big-charcoal-chicken-acacia-ridge-1033884/
+2026-03-04 15:50:16.178 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:16.178 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:16.198 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-AU/store/dannys-thai-bistro-norwood-30258259/
+2026-03-04 15:50:16.387 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:16.388 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:16.425 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/semaphore-pizzeria-semaphore-34568431/
+2026-03-04 15:50:16.477 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:16.477 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:16.490 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-NZ/store/my-kitchen-auckland-26270198/
+2026-03-04 15:50:18.836 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:18.955 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:18.956 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:18.981 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-AU/convenience/store/reddy-express-moonah-2419356/
+2026-03-04 15:50:19.022 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:19.022 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:19.039 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:19.039 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:19.041 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/egg'd-christchurch-25328372/
+2026-03-04 15:50:19.054 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/thai-thong-dee-bakehouse-auckland-27992730/
+2026-03-04 15:50:19.280 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:19.780 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:19.781 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:19.795 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/chill-out-thai-auckland-24977631/
+2026-03-04 15:50:21.642 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:21.642 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:21.664 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-AU/store/kfc-salisbury-1219810/
+2026-03-04 15:50:22.057 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:22.058 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:22.076 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/convenience/store/freshchoice-nelson-37857737/
+2026-03-04 15:50:22.684 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:22.684 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:22.696 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/hot-'n'-juicy-smoothies-and-juice-shop-whang%C4%81rei-30565355/
+2026-03-04 15:50:22.741 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:22.742 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:22.761 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/subway-dunedin-29636984/
+2026-03-04 15:50:24.084 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:24.389 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:24.390 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:24.404 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/subway-dunedin-29636968/
+2026-03-04 15:50:25.233 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:25.233 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:25.244 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/wangderland-w%C4%81naka-32621789/
+2026-03-04 15:50:25.824 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:26.136 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:27.082 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:27.083 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:27.095 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/mayfield-takeaways-blenheim-40798189/
+2026-03-04 15:50:28.011 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:28.011 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:28.025 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/subway-napier-30898523/
+2026-03-04 15:50:28.158 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:28.159 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:28.169 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:28.169 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:28.170 | SUCCESS  | __main__:worker:100 - Worker 9: 成功 https://www.doordash.com/en-NZ/store/riya's-kitchen-%C5%8Dtautahi-40129479/
+2026-03-04 15:50:28.180 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-AU/store/circle-of-life-doughnut-co-hobart-2534630/
+2026-03-04 15:50:28.564 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:28.565 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:28.584 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/mashal-bolani-napier-32486335/
+2026-03-04 15:50:29.949 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:29.949 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:29.966 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/lingam's-takeaways-napier-30859140/
+2026-03-04 15:50:30.874 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:30.875 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:30.890 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-AU/store/mcdonald's-ludmilla-1249078/
+2026-03-04 15:50:31.094 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:31.094 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:31.105 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/food-cartel-caravan-gisborne-31405493/
+2026-03-04 15:50:31.462 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:31.463 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:31.475 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-NZ/store/taste-of-afghanistan-&amp;-kebab-house-nelson-39381817/
+2026-03-04 15:50:31.759 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:31.759 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:31.773 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-AU/store/oporto-potts-point-27901801/
+2026-03-04 15:50:32.515 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:32.516 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:32.547 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/mister-karaage-nelson-30317567/
+2026-03-04 15:50:32.810 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:32.810 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:32.828 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-AU/store/darwin-24-7-superstore-darwin-city-1889054/
+2026-03-04 15:50:33.682 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:33.683 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:33.697 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/chokdee-nelson-36458813/
+2026-03-04 15:50:33.881 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:33.882 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:33.896 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-NZ/store/dragons-nest-chinese-restaurant-nelson-38780045/
+2026-03-04 15:50:34.143 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:34.143 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:34.160 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-NZ/convenience/store/wildbean-cafe-nelson-32417941/
+2026-03-04 15:50:34.842 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:34.842 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:34.854 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/sweet-creations-blenheim-31648231/
+2026-03-04 15:50:34.884 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:34.885 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:34.897 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-NZ/convenience/store/couchfood-nelson-32416483/
+2026-03-04 15:50:35.133 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:35.134 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:35.150 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/spud-doctor-(nelson)-nelson-30989691/
+2026-03-04 15:50:35.795 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:35.796 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:35.806 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/sushi-punch!-nelson-30289005/
+2026-03-04 15:50:36.195 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:36.195 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:36.207 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/redwood-takeaways-blenheim-36717334/
+2026-03-04 15:50:37.346 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:37.347 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:37.357 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-NZ/store/m&amp;m-souvlaki-blenheim-37321048/
+2026-03-04 15:50:37.767 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:37.767 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:37.780 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-NZ/store/ai's-fusion-culinary-blenheim-36190886/
+2026-03-04 15:50:37.818 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:37.818 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:37.833 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/fusion-eatery-blenheim-31662477/
+2026-03-04 15:50:38.143 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:38.143 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:38.156 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/pita-pit-blenheim-35256213/
+2026-03-04 15:50:38.323 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:38.324 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:38.347 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/store/gohan-on-scott-blenheim-40687865/
+2026-03-04 15:50:39.072 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:39.072 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:39.085 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/craig's-kitchen-invercargill-39173507/
+2026-03-04 15:50:40.232 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:40.232 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:40.244 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/sir-benedict-invercargill-34769049/
+2026-03-04 15:50:40.314 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:40.315 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:40.330 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-NZ/store/popeyes-famous-louisiana-chicken-invercargill-36961133/
+2026-03-04 15:50:40.765 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:40.766 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:40.778 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/korean-bob-restaurant-invercargill-36328499/
+2026-03-04 15:50:41.026 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:41.026 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:41.044 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/store/the-coffee-club-invercargill-34499221/
+2026-03-04 15:50:41.317 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:41.317 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:41.347 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-NZ/convenience/store/night-n-day-invercargill-37320438/
+2026-03-04 15:50:41.550 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:41.550 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:41.552 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:41.564 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/marracbo-cafe-hawera-38780549/
+2026-03-04 15:50:42.317 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:42.670 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:44.140 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:44.140 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:44.155 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/chinatown-fast-food-restaurant-new-plymouth-38322191/
+2026-03-04 15:50:44.693 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:44.693 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:44.708 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/the-coffee-club-new-plymouth-34499160/
+2026-03-04 15:50:45.350 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:45.350 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:45.363 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-NZ/store/mcdonald's-hawera-32845815/
+2026-03-04 15:50:45.413 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:45.413 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:45.446 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/convenience/store/wildbean-cafe-new-plymouth-32417951/
+2026-03-04 15:50:45.876 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:45.876 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:45.891 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/convenience/store/couchfood-new-plymouth-32416485/
+2026-03-04 15:50:46.718 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:46.719 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:46.730 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/fire-home-turkish-restaurant-palmerston-north-29503360/
+2026-03-04 15:50:48.211 | INFO     | __main__:worker:78 - 详情页404
+2026-03-04 15:50:48.486 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:48.486 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:48.496 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/store/malabar-kitchens-whanganui-31212006/
+2026-03-04 15:50:48.533 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:48.534 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:48.556 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-NZ/store/jok'n'al-blenheim-31662629/
+2026-03-04 15:50:49.808 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:51.395 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:51.396 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:51.416 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/store/hell-pizza-palmerston-north-29833999/
+2026-03-04 15:50:51.713 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:51.714 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:51.738 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-NZ/store/king-cafe-palmerston-north-31512761/
+2026-03-04 15:50:52.139 | INFO     | __main__:worker:78 - 详情页404
+2026-03-04 15:50:52.152 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:52.153 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:52.181 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/kochi-foods-limited-palmerston-north-29967873/
+2026-03-04 15:50:53.270 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:50:54.298 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:54.298 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:54.316 | SUCCESS  | __main__:worker:100 - Worker 7: 成功 https://www.doordash.com/en-NZ/store/wendy's-palmerston-north-29732191/
+2026-03-04 15:50:55.516 | INFO     | __main__:worker:78 - 详情页404
+2026-03-04 15:50:55.517 | ERROR    | __main__:worker:103 - Worker 9: 详情页访问失败
+2026-03-04 15:50:55.517 | ERROR    | __main__:worker:104 - https://www.doordash.com/en-NZ/store/what?-gnocchi!-nelson-30802498/详情页访问失败
+2026-03-04 15:50:55.518 | INFO     | __main__:worker:116 - Worker 9 finished
+2026-03-04 15:50:56.186 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:56.186 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:56.202 | SUCCESS  | __main__:worker:100 - Worker 6: 成功 https://www.doordash.com/en-NZ/store/munch-palmerston-north-29716094/
+2026-03-04 15:50:56.584 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:56.584 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:56.593 | SUCCESS  | __main__:worker:100 - Worker 8: 成功 https://www.doordash.com/en-NZ/store/mo:mo-ghar-invercargill-39173427/
+2026-03-04 15:50:58.475 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:58.475 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:58.488 | SUCCESS  | __main__:worker:100 - Worker 1: 成功 https://www.doordash.com/en-NZ/store/stads-cafe-palmerston-north-29094197/
+2026-03-04 15:50:58.620 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:50:58.621 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:50:58.636 | SUCCESS  | __main__:worker:100 - Worker 0: 成功 https://www.doordash.com/en-NZ/store/sir-benedict-new-plymouth-34769039/
+2026-03-04 15:50:58.668 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:00.346 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:00.658 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:00.924 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:02.386 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:02.793 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:03.174 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:04.387 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:05.434 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:05.858 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:06.270 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:51:06.271 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:51:06.285 | SUCCESS  | __main__:worker:100 - Worker 2: 成功 https://www.doordash.com/en-NZ/store/smokey-joe's-lunchbar-palmerston-north-29607528/
+2026-03-04 15:51:07.612 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:07.758 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:07.898 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:51:07.899 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:51:07.912 | SUCCESS  | __main__:worker:100 - Worker 4: 成功 https://www.doordash.com/en-NZ/store/freddie-clere-palmerston-north-29716093/
+2026-03-04 15:51:09.363 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:09.748 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:09.862 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:09.863 | ERROR    | __main__:worker:103 - Worker 1: 详情页访问失败
+2026-03-04 15:51:09.863 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/-12-sapporo-2715335/详情页访问失败
+2026-03-04 15:51:09.865 | INFO     | __main__:worker:116 - Worker 1 finished
+2026-03-04 15:51:10.527 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:11.009 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:11.727 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:12.382 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:13.463 | INFO     | __main__:worker:78 - 详情页200
+2026-03-04 15:51:13.463 | INFO     | __main__:worker:81 - 成功  延时 10秒
+2026-03-04 15:51:13.477 | SUCCESS  | __main__:worker:100 - Worker 5: 成功 https://www.doordash.com/en-NZ/store/indian-summer-palmerston-north-29520197/
+2026-03-04 15:51:13.714 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:15.182 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:15.182 | ERROR    | __main__:worker:103 - Worker 8: 详情页访问失败
+2026-03-04 15:51:15.182 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/-sapporo-2641470/详情页访问失败
+2026-03-04 15:51:15.184 | INFO     | __main__:worker:116 - Worker 8 finished
+2026-03-04 15:51:15.476 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:15.934 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:16.766 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:16.766 | ERROR    | __main__:worker:103 - Worker 0: 详情页访问失败
+2026-03-04 15:51:16.766 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/&amp;-sapporo-22968673/详情页访问失败
+2026-03-04 15:51:16.768 | INFO     | __main__:worker:116 - Worker 0 finished
+2026-03-04 15:51:17.247 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:17.974 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:18.830 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:19.788 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:20.077 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:21.492 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:22.164 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:22.582 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:22.582 | ERROR    | __main__:worker:103 - Worker 7: 详情页访问失败
+2026-03-04 15:51:22.582 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/come-come--sapporo-23159158/详情页访问失败
+2026-03-04 15:51:22.583 | INFO     | __main__:worker:116 - Worker 7 finished
+2026-03-04 15:51:23.515 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:23.515 | ERROR    | __main__:worker:103 - Worker 5: 详情页访问失败
+2026-03-04 15:51:23.516 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/---sapporo-2576863/详情页访问失败
+2026-03-04 15:51:23.517 | INFO     | __main__:worker:116 - Worker 5 finished
+2026-03-04 15:51:32.698 | ERROR    | __main__:worker:103 - Worker 6: 详情页访问失败
+2026-03-04 15:51:32.699 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/-sapporo-2605458/详情页访问失败
+2026-03-04 15:51:32.700 | INFO     | __main__:worker:116 - Worker 6 finished
+2026-03-04 15:51:35.061 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:35.061 | ERROR    | __main__:worker:103 - Worker 4: 详情页访问失败
+2026-03-04 15:51:35.061 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/&amp;----sapporo-23121405/详情页访问失败
+2026-03-04 15:51:35.062 | INFO     | __main__:worker:116 - Worker 4 finished
+2026-03-04 15:51:38.137 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:39.918 | INFO     | __main__:worker:78 - 详情页403
+2026-03-04 15:51:39.919 | ERROR    | __main__:worker:103 - Worker 2: 详情页访问失败
+2026-03-04 15:51:39.919 | ERROR    | __main__:worker:104 - https://www.doordash.com/\\N/store/-sapporo-23083810/详情页访问失败
+2026-03-04 15:51:39.921 | INFO     | __main__:worker:116 - Worker 2 finished
+2026-03-04 15:51:39.927 | INFO     | __main__:main:131 - All workers finished
