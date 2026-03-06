@@ -16,7 +16,7 @@ import pymongo
 import hashlib
 from pathlib import Path
 from loguru import logger
-logger.add(f"./logs/{Path(__file__).stem}.log",mode="w")
+logger.add(f"./logs/{Path(__file__).stem}",mode="w")
 
 M_HOST = "localhost"  # 地址
 M_PORT = 5002  # 端口

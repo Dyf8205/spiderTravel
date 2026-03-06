@@ -17,9 +17,7 @@ import pymongo
 import hashlib
 from loguru import logger
 
-from pathlib import Path
-
-logger.add(f"./logs/{Path(__file__).stem}",mode="w")
+logger.add("./logs/base_deatail_kkday_to_redis.log",mode="w")
 
 M_HOST = "localhost"  # 地址
 M_PORT = 5002  # 端口
@@ -45,7 +43,6 @@ def hash_sha1(url):
 index =0
 col = client['kkday']['sitemap']
 cursor = col.find({}, no_cursor_timeout=True, batch_size=5)
-
 
 
 for i in cursor:
