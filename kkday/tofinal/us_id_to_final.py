@@ -25,7 +25,7 @@ from loguru import logger as logging
 from copy import deepcopy
 from redis import StrictRedis
 
-logging.add("./logs/make_final_trip.log",mode="w")
+logging.add("./logs/us_id_to_final.log",mode="w")
 
 M_HOST = "127.0.0.1"  # 地址
 M_PORT = 5002  # 端口
@@ -34,25 +34,31 @@ M_PASSWORD = parse.quote_plus("grad@0212!GnGn")
 uri = 'mongodb://{}:{}@{}:{}'.format(M_USER, M_PASSWORD, M_HOST, str(M_PORT))
 mongoclient = pymongo.MongoClient(uri,maxPoolSize=6)
 
-source = "Trip"
+source = "Kkday"
 industry ="ACC"
 
-col = mongoclient['trip']["details"]   #详情链接
+col = mongoclient['kkday']["us_detail"]   #详情链接
 cursor = col.find({}, no_cursor_timeout=True, batch_size=5)
 
-imgcol = mongoclient["trip_image_json"]["details"]     #图片json链接
+imgcol = mongoclient["kkday"]["image_detail"]     #图片json链接
 
-final_col_id = mongoclient['trip'][f'id_id_final']  #印尼链接
+
+
+final_col_id = mongoclient['kkday'][f'en_id_final']  #印尼链接
 final_col_id.create_index("feature_id", unique=True)
 
-final_col_my = mongoclient['trip'][f'ms_my_final']  #马来链接
-final_col_my.create_index("feature_id", unique=True)
 
-final_col_jp = mongoclient['trip'][f'ja_jp_final']  #日本链接
-final_col_jp.create_index("feature_id", unique=True)
-
-final_col_th = mongoclient['trip'][f'th_th_final']   #泰国链接
+final_col_th = mongoclient['kkday'][f'en_us_final']   #泰国链接
 final_col_th.create_index("feature_id", unique=True)
+
+
+travellerType_dict={
+    "01":"Couple",
+    "02":"Family",
+    "03":"Friend",
+    "04":"Solo traveler",
+    "05":"Business traveler",
+}
 
 
 count = 0
@@ -60,68 +66,54 @@ num = 0
 for i in cursor:
     count += 1
     url = i['url']
-     # 唯一标识符
-    pattern = r'self\.__next_f\.push\(\[1,\s*"Jc:\[.*?null,(\{.+?\})\]\\n"\]\)'
-    match = re.search(pattern, i["website_snapshot"], re.DOTALL)
-
-    if match:
-        json_str = match.group(1)
-        # 处理转义
-        json_str = json_str.replace('\\"', '"')
-        json_str = json_str.replace('\\\\', '\\')
-        baseDict = json.loads(json_str)
-    else:
-        logging.error(url + " 页面失效")
-        continue
-    # 获取存在其他地方的图片json
-    try:
-        imgjson = json.loads(imgcol.find_one({"id":i["id"]})["website_snapshot"])
-    except Exception as e:
-        logging.error(url + " json查询失败")
-        continue
-
-
-    try:
-        latitude = baseDict["hotelDetailResponse"]["hotelPositionInfo"]["lat"]
-    except:
-        logging.error(url + " 页面失效")
-        continue
-    longitude = baseDict["hotelDetailResponse"]["hotelPositionInfo"]["lng"]
-    feature_id = str(baseDict["urlParams"]["hotelId"])
-    name =  baseDict["hotelDetailResponse"]["hotelBaseInfo"]["nameInfo"]["nameLocale"]
-    en_name = baseDict["hotelDetailResponse"]["hotelBaseInfo"]["nameInfo"]["nameEn"]
-    name_path = re.findall("https://(.+?)\.trip\.com",url)[0] # 获取当地的标志
-    all_names = {f"name_{name_path}": name,"name_en":en_name}
-    all_names = json.dumps(all_names, ensure_ascii=False)
-    address = baseDict["hotelDetailResponse"]["hotelPositionInfo"]["address"]
-
     img_list =[]
+     # 唯一标识符
 
+    if "__INIT_STATE__" in i["website_snapshot"]:
+        baseDict = json.loads(re.findall("window\.__INIT_STATE__\s*=\s*([\s\S]+?);\s+</script>", i["website_snapshot"])[0])
+        hotelServiceData = baseDict["state"]["product"]["hotelServiceData"]
+        feature_id = str(hotelServiceData["prodOid"])
 
-    for image_tab in imgjson["data"]["hotelImagePop"]["hotelProvide"]["imgTabs"]:
-        img_tag = image_tab["categoryName"]
-        if "Unggulan" == img_tag.strip() or "Terpilih" == img_tag.strip() or  "おすすめ" == img_tag.strip() or  "ไฮไลท์" == img_tag.strip():
-            continue
-        for image_dict in image_tab["imgUrlList"][0]["subImgUrlList"]:
+        hotelBaseInfo = hotelServiceData["hotelBaseInfo"]
+
+        latitude = str(hotelBaseInfo["latitude"])
+        longitude = str(hotelBaseInfo["longitude"])
+
+        name = hotelBaseInfo["hotelName"]
+        # en_name = baseDict["hotelDetailResponse"]["hotelBaseInfo"]["nameInfo"]["nameEn"]
+        # name_path = re.findall("https://(.+?)\.kkday\.com", url)[0]  # 获取当地的标志
+        all_names = { "name_en": hotelBaseInfo["hotelName"]}
+        all_names = json.dumps(all_names, ensure_ascii=False)
+        address = hotelBaseInfo["address"]
+
+        for image_dict in hotelServiceData["hotelPictures"]["list"]:
             image_item = dict()
-            image_item['img_tag'] = img_tag
-            image_item['img_title'] = image_dict['imgTitle']
-            image_item['origin_img_url'] = image_dict['link']
+            image_item['img_tag'] = ""
+            image_item['img_title'] = ""
+            image_item['origin_img_url'] = image_dict['url']
             image_item['tos_img_url'] = ""
             image_item['img_source'] = "hotel"
             img_list.append(image_item)
 
 
-    for image_tab in imgjson["data"]["hotelImagePop"]["userProvide"]["imgTabs"]:
-        img_tag = image_tab["categoryName"]
-        for image_dict in image_tab["subUserAlbumCommentInfo"]:
+
+        
+    #
+    imgjson = json.loads(imgcol.find_one({"id":feature_id})["website_snapshot"])
+    for jsonstr in imgjson:
+        image_list = json.loads(jsonstr)["data"]["images"]
+        for image in image_list:
             image_item = dict()
-            image_item['img_tag'] = img_tag
-            image_item['img_title'] = ""
-            image_item['origin_img_url'] = image_dict['picture']
+            image_item['img_tag'] = travellerType_dict[image["author"]["travellerType"]]
+            image_item['img_title'] = image["author"]["title"]
+            image_item['origin_img_url'] = image_dict['url']
             image_item['tos_img_url'] = ""
             image_item['img_source'] = "user"
             img_list.append(image_item)
+
+
+
+
 
     img_list = json.dumps(img_list, ensure_ascii=False)
 

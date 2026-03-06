@@ -33,7 +33,7 @@ def get_redis():
     return StrictRedis.from_url(REDIS_URL)
 
 
-def download(params, result_len):
+def download(params, result_len,baseurl):
     for index in range(5):
         try:
             session = requests.Session()
@@ -55,6 +55,8 @@ def download(params, result_len):
                 'x-requested-with': 'XMLHttpRequest',
                 # 'cookie': 'csrf_cookie_name=4478158490b1bcaff3f253ceed44ee95; KKWEB=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%221633daaacae352f3a8a26a98c75698ab%22%3Bs%3A7%3A%22channel%22%3Bs%3A5%3A%22GUEST%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1772721313%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Dd504e41cb1090c3956222296922ef6f5; country_lang=en-us; currency=USD; KKUD=1633daaacae352f3a8a26a98c75698ab; datadome=S~Fh79~6_cIHboRlMjOkW4bK6co9_CdkDWxVauGXMFVwXHXJ3wa16yZb4HwU5D0MebMh2ptd1FZ9NsGK7zkRznhBd79LWu9FPGkff0EpFRHUF_8q3AmNQxpzstfqrs7d',
             }
+            if "/ja/" in baseurl:
+                headers["market"] = "ja"
             response = session.get('https://www.kkday.com/api/_nuxt/cpath/fetch-product-comment-images',
                                    params=params, headers=headers, proxies=get_random_proxy(),
                                    timeout=40)
@@ -103,13 +105,13 @@ def worker(worker_id):
             }
             response_list = []
 
-            response = download(params, response_list.__len__())
+            response = download(params, response_list.__len__(),baseData["url"])
             response_list.append(response.text)
             totalPages = response.json()["data"]["meta"]["pagination"]["totalPages"]
 
             for page in range(2, totalPages + 1):  # 需要翻页的 用户照片
                 params["page"] = str(page)
-                response = download(params, response_list.__len__())
+                response = download(params, response_list.__len__(),baseData["url"])
                 if response == None:
                     break
                 response_list.append(response.text)
@@ -133,6 +135,7 @@ def worker(worker_id):
             logger.error(baseData["url"] + str(e))
             data = {}
             data["id"] = baseData["id"]
+            data["url"] = baseData["url"]
             data['error'] = str(e)
             data["success"] = False
             # 放入结果队列

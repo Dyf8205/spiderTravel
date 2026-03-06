@@ -1,5 +1,9 @@
 # -*- coding:UTF-8 -*-
 # author:dyf
+# time:2026/3/6 18:22
+# explain:
+# -*- coding:UTF-8 -*-
+# author:dyf
 # time:2026/3/6 15:45
 # explain:
 # -*- coding:UTF-8 -*-
@@ -46,7 +50,7 @@ def process_collection(collection_name, index):
 
 if __name__ == "__main__":
     index = 0
-    collections = ['base_error_urls_image']
+    collections = ['ja_details']
 
     for collection in collections:
         index = process_collection(collection, index)
